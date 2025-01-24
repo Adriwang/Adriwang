@@ -4,8 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriwang&layout=donut&theme=radical)](github-readme-stats-chi-jade-92.vercel.app)
 
-<h3 align="left">Contact Me</h3>
+<h3 align="left">Contact Me:</h3>
 <p align="left">
-<a href="https://discordapp.com/users/511983544269275137" target="blank"><img align="center" src="Discord.svg" alt="Discord" height="30" width="40" /></a>
-<a href="https://bsky.app/profile/adriwang.bsky.social" target="blank"><img align="center" src="Bluesky.svg" alt="Bluesky" height="30" width="35" /></a>
+<a href="https://discordapp.com/users/511983544269275137" target="blank"><img align="center" src="Discord.svg" alt="Discord" height="25" /></a>
+<a href="https://bsky.app/profile/adriwang.bsky.social" target="blank"><img align="center" src="Bluesky.svg" alt="Bluesky" height="25" /></a>
 </p>
