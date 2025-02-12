@@ -8,14 +8,23 @@
 
 <div align="left">
   <img src="Icons/C.svg" height="40" alt="C logo" />
+  &nbsp;
   <img src="Icons/Go.svg" height="40" alt="Go logo"  />
+  &nbsp;
   <img src="Icons/Ruby.svg" height="40" alt="Ruby logo"  />
+  &nbsp;
   <img src="Icons/Dart.svg" height="40" alt="Dart Logo"  />
+  &nbsp;
   <img src="Icons/Flutter.svg" height="40" alt="Flutter Logo"  />
+  &nbsp;
   <img src="Icons/TypeScript.svg" height="40" alt="TypeScript logo"  />
+  &nbsp;
   <img src="Icons/Angular.svg" height="40" alt="AngularJS logo"  />
+  &nbsp;
   <img src="Icons/React.svg" height="40" alt="React logo"  />
+  &nbsp;
   <img src="Icons/Godot.svg" height="40" alt="Godot logo"  />
+  &nbsp;
   <img src="Icons/Raylib.svg" height="40" alt="Raylib logo"  />
 </div>
 
