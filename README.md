@@ -19,7 +19,7 @@
   <img width="12" />
   <img src="Icons/TypeScript.svg" height="40" alt="TypeScript logo"  />
   <img width="12" />
-  <img src="Angular.svg" height="40" alt="AngularJS logo"  />
+  <img src="Icons/Angular.svg" height="40" alt="AngularJS logo"  />
   <img width="12" />
   <img src="Icons/React.svg" height="40" alt="React logo"  />
   <img width="12" />
@@ -28,6 +28,6 @@
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
-<a href="https://www.discordapp.com/users/511983544269275137" target="blank"><img align="center" src="Discord.svg" alt="Discord" height="25" /></a>
-<a href="https://bsky.app/profile/adriwang.bsky.social" target="blank"><img align="center" src="Bluesky.svg" alt="Bluesky" height="25" /></a>
+<a href="https://www.discordapp.com/users/511983544269275137" target="blank"><img align="center" src="Icons/Discord.svg" alt="Discord" height="25" /></a>
+<a href="https://bsky.app/profile/adriwang.bsky.social" target="blank"><img align="center" src="Icons/Bluesky.svg" alt="Bluesky" height="25" /></a>
 </p>
