@@ -19,7 +19,7 @@
   <img width="12" />
   <img src="Icons/TypeScript.svg" height="40" alt="TypeScript logo"  />
   <img width="12" />
-  <img src="angular.svg" height="40" alt="angularjs logo"  />
+  <img src="Angular.svg" height="40" alt="AngularJS logo"  />
   <img width="12" />
   <img src="Icons/React.svg" height="40" alt="React logo"  />
   <img width="12" />
