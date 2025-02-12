@@ -7,23 +7,23 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="Icons/C.svg" height="40" alt="C logo"  />
   <img width="12" />
-  <img src="go.svg" height="40" alt="Go logo"  />
+  <img src="Icons/Go.svg" height="40" alt="Go logo"  />
   <img width="12" />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/ruby-logo-svg-vector.svg" height="40" alt="Ruby logo"  />
+  <img src="Icons/Ruby.svg" height="40" alt="Ruby logo"  />
   <img width="12" />
-  <img src="dart.svg" height="40" alt="Dart Logo"  />
+  <img src="Icons/Dart.svg" height="40" alt="Dart Logo"  />
   <img width="12" />
-  <img src="flutter.svg" height="40" alt="Flutter Logo"  />
+  <img src="Icons/Flutter.svg" height="40" alt="Flutter Logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo"  />
+  <img src="Icons/TypeScript.svg" height="40" alt="TypeScript logo"  />
   <img width="12" />
   <img src="angular.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo"  />
+  <img src="Icons/React.svg" height="40" alt="React logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="Godot logo"  />
+  <img src="Icons/Godot.svg" height="40" alt="Godot logo"  />
 </div>
 
 <h3 align="left">Contact Me:</h3>
