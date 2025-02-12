@@ -7,23 +7,16 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 <div align="left">
-  <img src="Icons/C.svg" height="40" alt="C logo"  />
-  <img width="12" />
+  <img src="Icons/C.svg" height="40" alt="C logo" />
   <img src="Icons/Go.svg" height="40" alt="Go logo"  />
-  <img width="12" />
   <img src="Icons/Ruby.svg" height="40" alt="Ruby logo"  />
-  <img width="12" />
   <img src="Icons/Dart.svg" height="40" alt="Dart Logo"  />
-  <img width="12" />
   <img src="Icons/Flutter.svg" height="40" alt="Flutter Logo"  />
-  <img width="12" />
   <img src="Icons/TypeScript.svg" height="40" alt="TypeScript logo"  />
-  <img width="12" />
   <img src="Icons/Angular.svg" height="40" alt="AngularJS logo"  />
-  <img width="12" />
   <img src="Icons/React.svg" height="40" alt="React logo"  />
-  <img width="12" />
   <img src="Icons/Godot.svg" height="40" alt="Godot logo"  />
+  <img src="Icons/Raylib.svg" height="40" alt="Raylib logo"  />
 </div>
 
 <h3 align="left">Contact Me:</h3>
