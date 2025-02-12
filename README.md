@@ -13,7 +13,9 @@
   <img width="12" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/ruby-logo-svg-vector.svg" height="40" alt="Ruby logo"  />
   <img width="12" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Dart-logo-icon.svg" height="40" alt="Ruby logo"  />
+  <img src="dart.svg" height="40" alt="Dart Logo"  />
+  <img width="12" />
+  <img src="flutter.svg" height="40" alt="Flutter Logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo"  />
   <img width="12" />
