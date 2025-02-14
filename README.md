@@ -7,25 +7,48 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 <div align="left">
-  <img src="Icons/C.svg" height="40" alt="C logo" />
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/">
+    <img src="Icons/C.svg" height="40" alt="C logo" />
+  </a>
   &nbsp;
-  <img src="Icons/Go.svg" height="40" alt="Go logo"  />
+  <a href="https://go.dev/">
+    <img src="Icons/Go.svg" height="40" alt="Go logo"  />
+  </a>
   &nbsp;
-  <img src="Icons/Ruby.svg" height="40" alt="Ruby logo"  />
+  <a href="https://www.ruby-lang.org/en/">
+    <img src="Icons/Ruby.svg" height="40" alt="Ruby logo"  />
+  </a>
   &nbsp;
-  <img src="Icons/Dart.svg" height="40" alt="Dart Logo"  />
+  <a href="https://dart.dev/">
+    <img src="Icons/Dart.svg" height="40" alt="Dart Logo"  />
+  </a>
   &nbsp;
-  <img src="Icons/Flutter.svg" height="40" alt="Flutter Logo"  />
+  <a href="https://flutter.dev/">
+    <img src="Icons/Flutter.svg" height="40" alt="Flutter Logo"  />
+  </a>
   &nbsp;
-  <img src="Icons/TypeScript.svg" height="40" alt="TypeScript logo"  />
+  <a href="https://www.typescriptlang.org/">
+    <img src="Icons/TypeScript.svg" height="40" alt="TypeScript logo"  />
+  </a>
   &nbsp;
-  <img src="Icons/Angular.svg" height="40" alt="AngularJS logo"  />
+  <a href="https://angular.dev/">
+    <img src="Icons/Angular.svg" height="40" alt="AngularJS logo"  />
+  </a>
   &nbsp;
-  <img src="Icons/React.svg" height="40" alt="React logo"  />
+  <a href="https://react.dev/">
+    <img src="Icons/React.svg" height="40" alt="React logo"  />
+  </a>
   &nbsp;
-  <img src="Icons/Godot.svg" height="40" alt="Godot logo"  />
+  <a href="https://www.scala-lang.org/">
+     <img src="Icons/Scala.svg" height="40" alt="Scala logo"  />
+  </a>
+  <a href="https://godotengine.org/">
+    <img src="Icons/Godot.svg" height="40" alt="Godot logo"  />
+  </a>
   &nbsp;
-  <img src="Icons/Raylib.svg" height="40" alt="Raylib logo"  />
+  <a href="https://www.raylib.com/">
+    <img src="Icons/Raylib.svg" height="40" alt="Raylib logo"  />
+  </a>
 </div>
 
 <h3 align="left">Contact Me:</h3>
