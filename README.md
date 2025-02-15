@@ -46,6 +46,11 @@
   <a href="https://www.scala-lang.org/">
      <img src="Icons/Scala.svg" height="40" alt="Scala logo"  />
   </a>
+  &nbsp;
+  <a href="https://www.python.org/">
+     <img src="Icons/Python.svg" height="40" alt="Python logo"  />
+  </a>
+  &nbsp;
   <a href="https://godotengine.org/">
     <img src="Icons/Godot.svg" height="40" alt="Godot logo"  />
   </a>
