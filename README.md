@@ -11,6 +11,10 @@
     <img src="Icons/C.svg" height="40" alt="C logo" />
   </a>
   &nbsp;
+  <a href="https://isocpp.org/">
+    <img src="Icons/cplusplus.svg" height="40" alt="C++ logo" />
+  </a>
+  &nbsp;
   <a href="https://go.dev/">
     <img src="Icons/Go.svg" height="40" alt="Go logo"  />
   </a>
