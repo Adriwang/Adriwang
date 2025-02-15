@@ -7,7 +7,7 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 <div align="left">
-  <a href="https://www.open-std.org/jtc1/sc22/wg14/">
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
     <img src="Icons/C.svg" height="40" alt="C logo" />
   </a>
   &nbsp;
