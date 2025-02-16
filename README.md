@@ -42,17 +42,13 @@
       Secondary:
     </h4>
   &nbsp;
-  <a href="https://isocpp.org/">
-    <img src="Icons/cplusplus.svg" height="38" alt="C++ logo" />
-  </a>
+  <a href="https://isocpp.org/"><img src="Icons/cplusplus.svg" height="38" alt="C++ logo" /></a>
   &nbsp;
-  <a href="https://www.python.org/">
-    <img src="Icons/Python.svg" height="38" alt="Python logo"  />
-  </a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/csharp.svg" height="38" alt="C Sharp logo"  /></a>
   &nbsp;
-  <a href="https://www.lua.org/">
-    <img src="Icons/Lua.svg" height="38" alt="Lua logo"  />
-  </a>
+  <a href="https://www.python.org/"><img src="Icons/Python.svg" height="38" alt="Python logo"  /></a>
+  &nbsp;
+  <a href="https://www.lua.org/"><img src="Icons/Lua.svg" height="38" alt="Lua logo"  /></a>
   &nbsp;
   </div-->
   
