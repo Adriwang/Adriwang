@@ -10,10 +10,10 @@
 
   <div>
     
-  <h4>
+  <!--h4>
     Main:
   </h4>
-  &nbsp;
+  &nbsp;-->
   <a href="https://www.open-std.org/jtc1/sc22/wg14/">
     <img src="Icons/C.svg" height="38" alt="C logo" />
   </a>
@@ -59,7 +59,7 @@
   </a>
   </div>
 
-  <div>
+  <!--div>
     <h4>
       Secondary:
     </h4>
@@ -76,7 +76,7 @@
     <img src="Icons/Lua.svg" height="38" alt="Lua logo"  />
   </a>
   &nbsp;
-  </div>
+  </div-->
   
 </div>
 
