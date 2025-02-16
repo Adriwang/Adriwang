@@ -72,6 +72,10 @@
     <img src="Icons/Python.svg" height="38" alt="Python logo"  />
   </a>
   &nbsp;
+  <a href="https://www.lua.org/">
+    <img src="Icons/Lua.svg" height="38" alt="Lua logo"  />
+  </a>
+  &nbsp;
   </div>
   
 </div>
