@@ -7,12 +7,15 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 <div align="left">
+
+  <div>
+    
+  <h4>
+    Main:
+  </h4>
+  &nbsp;
   <a href="https://www.open-std.org/jtc1/sc22/wg14/">
     <img src="Icons/C.svg" height="40" alt="C logo" />
-  </a>
-  &nbsp;
-  <a href="https://isocpp.org/">
-    <img src="Icons/cplusplus.svg" height="40" alt="C++ logo" />
   </a>
   &nbsp;
   <a href="https://go.dev/">
@@ -47,10 +50,6 @@
      <img src="Icons/Scala.svg" height="40" alt="Scala logo"  />
   </a>
   &nbsp;
-  <a href="https://www.python.org/">
-     <img src="Icons/Python.svg" height="40" alt="Python logo"  />
-  </a>
-  &nbsp;
   <a href="https://godotengine.org/">
     <img src="Icons/Godot.svg" height="40" alt="Godot logo"  />
   </a>
@@ -58,6 +57,23 @@
   <a href="https://www.raylib.com/">
     <img src="Icons/Raylib.svg" height="40" alt="Raylib logo"  />
   </a>
+  </div>
+
+  <div>
+    <h4>
+      Secondary:
+    </h4>
+  &nbsp;
+  <a href="https://isocpp.org/">
+    <img src="Icons/cplusplus.svg" height="40" alt="C++ logo" />
+  </a>
+  &nbsp;
+  <a href="https://www.python.org/">
+    <img src="Icons/Python.svg" height="40" alt="Python logo"  />
+  </a>
+  &nbsp;
+  </div>
+  
 </div>
 
 <h3 align="left">Contact Me:</h3>
