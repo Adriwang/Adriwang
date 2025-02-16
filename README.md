@@ -15,47 +15,47 @@
   </h4>
   &nbsp;
   <a href="https://www.open-std.org/jtc1/sc22/wg14/">
-    <img src="Icons/C.svg" height="30" alt="C logo" />
+    <img src="Icons/C.svg" height="38" alt="C logo" />
   </a>
   &nbsp;
   <a href="https://go.dev/">
-    <img src="Icons/Go.svg" height="30" alt="Go logo"  />
+    <img src="Icons/Go.svg" height="38" alt="Go logo"  />
   </a>
   &nbsp;
   <a href="https://www.ruby-lang.org/en/">
-    <img src="Icons/Ruby.svg" height="30" alt="Ruby logo"  />
+    <img src="Icons/Ruby.svg" height="38" alt="Ruby logo"  />
   </a>
   &nbsp;
   <a href="https://dart.dev/">
-    <img src="Icons/Dart.svg" height="30" alt="Dart Logo"  />
+    <img src="Icons/Dart.svg" height="38" alt="Dart Logo"  />
   </a>
   &nbsp;
   <a href="https://flutter.dev/">
-    <img src="Icons/Flutter.svg" height="30" alt="Flutter Logo"  />
+    <img src="Icons/Flutter.svg" height="38" alt="Flutter Logo"  />
   </a>
   &nbsp;
   <a href="https://www.typescriptlang.org/">
-    <img src="Icons/TypeScript.svg" height="30" alt="TypeScript logo"  />
+    <img src="Icons/TypeScript.svg" height="38" alt="TypeScript logo"  />
   </a>
   &nbsp;
   <a href="https://angular.dev/">
-    <img src="Icons/Angular.svg" height="30" alt="AngularJS logo"  />
+    <img src="Icons/Angular.svg" height="38" alt="AngularJS logo"  />
   </a>
   &nbsp;
   <a href="https://react.dev/">
-    <img src="Icons/React.svg" height="30" alt="React logo"  />
+    <img src="Icons/React.svg" height="38" alt="React logo"  />
   </a>
   &nbsp;
   <a href="https://www.scala-lang.org/">
-     <img src="Icons/Scala.svg" height="30" alt="Scala logo"  />
+     <img src="Icons/Scala.svg" height="38" alt="Scala logo"  />
   </a>
   &nbsp;
   <a href="https://godotengine.org/">
-    <img src="Icons/Godot.svg" height="30" alt="Godot logo"  />
+    <img src="Icons/Godot.svg" height="38" alt="Godot logo"  />
   </a>
   &nbsp;
   <a href="https://www.raylib.com/">
-    <img src="Icons/Raylib.svg" height="30" alt="Raylib logo"  />
+    <img src="Icons/Raylib.svg" height="38" alt="Raylib logo"  />
   </a>
   </div>
 
@@ -65,11 +65,11 @@
     </h4>
   &nbsp;
   <a href="https://isocpp.org/">
-    <img src="Icons/cplusplus.svg" height="30" alt="C++ logo" />
+    <img src="Icons/cplusplus.svg" height="38" alt="C++ logo" />
   </a>
   &nbsp;
   <a href="https://www.python.org/">
-    <img src="Icons/Python.svg" height="30" alt="Python logo"  />
+    <img src="Icons/Python.svg" height="38" alt="Python logo"  />
   </a>
   &nbsp;
   </div>
