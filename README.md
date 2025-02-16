@@ -14,27 +14,27 @@
     Main:
   </h4>
   &nbsp;-->
-  <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="blank" rel="noreferrer"><img src="Icons/C.svg" height="38" alt="C logo" /></a>
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"><img src="Icons/C.svg" height="38" alt="C logo" /></a>
   &nbsp;
-  <a href="https://go.dev/" target="blank" rel="noreferrer"><img src="Icons/Go.svg" height="38" alt="Go logo"  /></a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="Icons/Go.svg" height="38" alt="Go logo"  /></a>
   &nbsp;
-  <a href="https://www.ruby-lang.org/en/" target="blank" rel="noreferrer"><img src="Icons/Ruby.svg" height="38" alt="Ruby logo"  /></a>
+  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="Icons/Ruby.svg" height="38" alt="Ruby logo"  /></a>
   &nbsp;
-  <a href="https://dart.dev/" target="blank" rel="noreferrer"><img src="Icons/Dart.svg" height="38" alt="Dart Logo"  /></a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="Icons/Dart.svg" height="38" alt="Dart Logo"  /></a>
   &nbsp;
-  <a href="https://flutter.dev/" target="blank" rel="noreferrer"><img src="Icons/Flutter.svg" height="38" alt="Flutter Logo"  /></a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="Icons/Flutter.svg" height="38" alt="Flutter Logo"  /></a>
   &nbsp;
-  <a href="https://www.typescriptlang.org/" target="blank" rel="noreferrer"><img src="Icons/TypeScript.svg" height="38" alt="TypeScript logo"  /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="Icons/TypeScript.svg" height="38" alt="TypeScript logo"  /></a>
   &nbsp;
-  <a href="https://angular.dev/" target="blank" rel="noreferrer"><img src="Icons/Angular.svg" height="38" alt="AngularJS logo"  /></a>
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="Icons/Angular.svg" height="38" alt="AngularJS logo"  /></a>
   &nbsp;
-  <a href="https://react.dev/" target="blank" rel="noreferrer"><img src="Icons/React.svg" height="38" alt="React logo"  /></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="Icons/React.svg" height="38" alt="React logo"  /></a>
   &nbsp;
-  <a href="https://www.scala-lang.org/" target="blank" rel="noreferrer"><img src="Icons/Scala.svg" height="38" alt="Scala logo"  /></a>
+  <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Scala.svg" height="38" alt="Scala logo"  /></a>
   &nbsp;
-  <a href="https://godotengine.org/" target="blank" rel="noreferrer"><img src="Icons/Godot.svg" height="38" alt="Godot logo"  /></a>
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="Icons/Godot.svg" height="38" alt="Godot logo"  /></a>
   &nbsp;
-  <a href="https://www.raylib.com/" target="blank" rel="noreferrer"><img src="Icons/Raylib.svg" height="38" alt="Raylib logo"  /></a>
+  <a href="https://www.raylib.com/" target="_blank" rel="noreferrer"><img src="Icons/Raylib.svg" height="38" alt="Raylib logo"  /></a>
   </div>
 
   <!--div>
