@@ -20,8 +20,6 @@
   &nbsp;
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="Icons/Ruby.svg" height="38" alt="Ruby logo"  /></a>
   &nbsp;
-  <a href="https://crystal-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Crystal.svg" height="38" alt="Crystal logo"  /></a>
-  &nbsp;
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="Icons/Dart.svg" height="38" alt="Dart Logo"  /></a>
   &nbsp;
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="Icons/Flutter.svg" height="38" alt="Flutter Logo"  /></a>
@@ -47,6 +45,8 @@
   <a href="https://isocpp.org/"><img src="Icons/cplusplus.svg" height="38" alt="C++ logo" /></a>
   &nbsp;
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/csharp.svg" height="38" alt="C Sharp logo"  /></a>
+  &nbsp;
+  <a href="https://crystal-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Crystal.svg" height="38" alt="Crystal logo"  /></a>
   &nbsp;
   <a href="https://www.python.org/"><img src="Icons/Python.svg" height="38" alt="Python logo"  /></a>
   &nbsp;
