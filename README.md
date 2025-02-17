@@ -52,7 +52,7 @@
   &nbsp;
   <a href="https://www.lua.org/"><img src="Icons/Lua.svg" height="38" alt="Lua logo"  /></a>
   &nbsp;
-  <a href="https://fsharp.org/"><img src="Icons/fsharp.svg" height="38" alt="Lua logo"  /></a>
+  <a href="https://fsharp.org/"><img src="Icons/fsharp.svg" height="38" alt="F sharp logo"  /></a>
   &nbsp;
   </div-->
   
