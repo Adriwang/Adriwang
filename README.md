@@ -28,7 +28,7 @@
   &nbsp;
   <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="Icons/Angular.svg" height="38" alt="AngularJS logo"  /></a>
   &nbsp;
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="Icons/React.svg" height="38" alt="React logo"  /></a>
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/Svelte.svg" height="38" alt="Svelte logo"  /></a>--
   &nbsp;
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Scala.svg" height="38" alt="Scala logo"  /></a>
   &nbsp;
@@ -49,6 +49,8 @@
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/csharp.svg" height="38" alt="C Sharp logo"  /></a>
   &nbsp;
   <a href="https://www.python.org/"><img src="Icons/Python.svg" height="38" alt="Python logo"  /></a>
+  &nbsp;
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="Icons/React.svg" height="38" alt="React logo"  /></a>
   &nbsp;
   <a href="https://www.lua.org/"><img src="Icons/Lua.svg" height="38" alt="Lua logo"  /></a>
   &nbsp;
