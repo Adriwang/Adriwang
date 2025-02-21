@@ -28,7 +28,7 @@
   &nbsp;
   <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="Icons/Angular.svg" height="38" alt="AngularJS logo"  /></a>
   &nbsp;
-  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/Svelte.svg" height="38" alt="Svelte logo"  /></a>--
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/Svelte.svg" height="38" alt="Svelte logo"  /></a>
   &nbsp;
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Scala.svg" height="38" alt="Scala logo"  /></a>
   &nbsp;
