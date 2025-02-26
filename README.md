@@ -36,11 +36,7 @@
   &nbsp;
   <a href="https://www.raylib.com/" target="_blank" rel="noreferrer"><img src="Icons/Raylib.svg" height="38" alt="Raylib logo"  /></a>
   &nbsp;
-  <a href="https://crystal-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Crystal.svg" height="38" alt="Crystal logo"  /></a>\
-  <a href="https://www.python.org/"><img src="Icons/Python.svg" height="38" alt="Python logo"  /></a>
-  &nbsp;
-  <a href="https://www.lua.org/"><img src="Icons/Lua.svg" height="38" alt="Lua logo"  /></a>
-  
+  <a href="https://crystal-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Crystal.svg" height="38" alt="Crystal logo"  /></a>
   </div>
 
   <!--div>
@@ -56,6 +52,9 @@
   &nbsp;
   <a href="https://fsharp.org/"><img src="Icons/fsharp.svg" height="38" alt="F sharp logo"  /></a>
   &nbsp;
+  <a href="https://www.python.org/"><img src="Icons/Python.svg" height="38" alt="Python logo"  /></a>
+  &nbsp;
+  <a href="https://www.lua.org/"><img src="Icons/Lua.svg" height="38" alt="Lua logo"  /></a>
   </div-->
   
 </div>
