@@ -1,3 +1,5 @@
+![Codewars Stats](https://www.codewars.com/users/Adriwan/badges/large)
+
 ### ⭐: My Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats-chi-jade-92.vercel.app/api?username=Adriwang&show_icons=true&theme=radical)
