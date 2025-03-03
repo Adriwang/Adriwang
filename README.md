@@ -20,8 +20,6 @@
   &nbsp;
   <a href="https://isocpp.org/"><img src="Icons/cplusplus.svg" height="38" alt="C++ logo" /></a>
   &nbsp;
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="Icons/Ruby.svg" height="38" alt="Ruby logo"  /></a>
-  &nbsp;
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Scala.svg" height="38" alt="Scala logo"  /></a>
   &nbsp;
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/Svelte.svg" height="38" alt="Svelte logo"  /></a>
@@ -51,6 +49,8 @@
   <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="Icons/Angular.svg" height="38" alt="AngularJS logo"  /></a>
   &nbsp;
   <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="Icons/React.svg" height="38" alt="React logo"  /></a>
+  &nbsp;
+  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="Icons/Ruby.svg" height="38" alt="Ruby logo"  /></a>
   &nbsp;
   <a href="https://fsharp.org/"><img src="Icons/fsharp.svg" height="38" alt="F sharp logo"  /></a>
   &nbsp;
