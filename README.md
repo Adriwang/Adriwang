@@ -37,6 +37,8 @@
   <a href="https://www.raylib.com/" target="_blank" rel="noreferrer"><img src="Icons/Raylib.svg" height="38" alt="Raylib logo"  /></a>
   &nbsp;
   <a href="https://crystal-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Crystal.svg" height="38" alt="Crystal logo"  /></a>
+  &nbsp;
+  <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/Bun.svg" height="38" alt="Bun logo"  /></a>
   </div>
 
   <!--div>
