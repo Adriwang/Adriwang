@@ -1,4 +1,4 @@
-![Codewars Stats](https://www.codewars.com/users/Adriwan/badges/large)
+<a href="https://www.codewars.com/users/Adriwan">![Codewars Stats](https://www.codewars.com/users/Adriwan/badges/large)</a>
 
 ### ⭐: My Stats :
 
