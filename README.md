@@ -37,6 +37,8 @@
   <a href="https://crystal-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Crystal.svg" height="38" alt="Crystal logo"  /></a>
   &nbsp;
   <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/Bun.svg" height="38" alt="Bun logo"  /></a>
+  &nbsp;
+  <a href="https://www.lua.org/"><img src="Icons/lua-alt-raster.png" height="40" alt="Lua logo"  /></a>
   </div>
 
   <!--div>
@@ -57,8 +59,6 @@
   <a href="https://fsharp.org/"><img src="Icons/fsharp.svg" height="38" alt="F sharp logo"  /></a>
   &nbsp;
   <a href="https://www.python.org/"><img src="Icons/Python.svg" height="38" alt="Python logo"  /></a>
-  &nbsp;
-  <a href="https://www.lua.org/"><img src="Icons/Lua.svg" height="38" alt="Lua logo"  /></a>
   </div-->
   
 </div>
