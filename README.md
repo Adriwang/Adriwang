@@ -32,19 +32,20 @@
   &nbsp;
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="Icons/Godot.svg" height="38" alt="Godot logo"  /></a>
   &nbsp;
+  <a href="https://ctjs.rocks/" target="_blank" rel="noreferrer"><img src="Icons/catjs.svg" height="38" alt="Ct.js logo"  /></a>
+  &nbsp;
   <a href="https://www.raylib.com/" target="_blank" rel="noreferrer"><img src="Icons/Raylib.svg" height="38" alt="Raylib logo"  /></a>
   &nbsp;
   <a href="https://crystal-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Crystal.svg" height="38" alt="Crystal logo"  /></a>
   &nbsp;
   <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/Bun.svg" height="38" alt="Bun logo"  /></a>
-  &nbsp;
-  <a href="https://www.lua.org/"><img src="Icons/lua-alt-raster.png" height="40" alt="Lua logo"  /></a>
   </div>
 
   <!--div>
     <h4>
       Secondary:
     </h4>
+  <a href="https://www.lua.org/"><img src="Icons/lua-alt-raster.png" height="40" alt="Lua logo"  /></a>
   &nbsp;
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/csharp.svg" height="38" alt="C Sharp logo"  /></a>
   &nbsp;
