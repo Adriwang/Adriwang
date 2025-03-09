@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-chi-jade-92.vercel.app/api?username=Adriwang&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriwang&layout=donut&theme=radical)](github-readme-stats-chi-jade-92.vercel.app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriwang&count_private=true&layout=donut&theme=radical)](github-readme-stats-chi-jade-92.vercel.app)
 
 <h3 align="left">🛠 Language and tools</h3>
 
