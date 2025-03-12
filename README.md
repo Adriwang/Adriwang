@@ -38,6 +38,8 @@
   &nbsp;
   <a href="https://crystal-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Crystal.svg" height="38" alt="Crystal logo"  /></a>
   &nbsp;
+  <a href="https://www.lua.org/"><img src="Icons/lua-alt-raster.png" height="40" alt="Lua logo"  /></a>
+  &nbsp;
   <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/Bun.svg" height="38" alt="Bun logo"  /></a>
   </div>
 
@@ -45,8 +47,6 @@
     <h4>
       Secondary:
     </h4>
-  <a href="https://www.lua.org/"><img src="Icons/lua-alt-raster.png" height="40" alt="Lua logo"  /></a>
-  &nbsp;
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/csharp.svg" height="38" alt="C Sharp logo"  /></a>
   &nbsp;
   <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="Icons/Angular.svg" height="38" alt="AngularJS logo"  /></a>
