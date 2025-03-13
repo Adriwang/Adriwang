@@ -40,6 +40,8 @@
   &nbsp;
   <a href="https://www.lua.org/"><img src="Icons/lua-alt-raster.png" height="40" alt="Lua logo"  /></a>
   &nbsp;
+  <a href="https://www.love2d.org/" target="_blank" rel="noreferrer"><img src="Icons/love.svg" height="38" alt="Love2D logo"  /></a>
+  &nbsp;
   <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/Bun.svg" height="38" alt="Bun logo"  /></a>
   </div>
 
