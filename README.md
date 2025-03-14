@@ -55,6 +55,8 @@
   &nbsp;
   <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="Icons/React.svg" height="38" alt="React logo"  /></a>
   &nbsp;
+  <a href="https://vlang.io/"><img src="Icons/V.svg" height="40" alt="V logo"  /></a>
+  &nbsp;
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="Icons/Ruby.svg" height="38" alt="Ruby logo"  /></a>
   &nbsp;
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Scala.svg" height="38" alt="Scala logo"  /></a>
