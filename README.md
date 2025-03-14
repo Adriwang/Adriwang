@@ -71,5 +71,5 @@
 <h3 align="left">Contact Me:</h3>
 <p align="left">
 <a href="https://www.discordapp.com/users/511983544269275137" target="blank"><img align="center" src="Icons/Discord.svg" alt="Discord" height="25" /></a>
-<a href="https://bsky.app/profile/adriwang.bsky.social" target="blank"><img align="center" src="Icons/Bluesky.svg" alt="Bluesky" height="25" /></a>
+<a href="https://bsky.app/profile/adriwanc.bsky.social" target="blank"><img align="center" src="Icons/Bluesky.svg" alt="Bluesky" height="25" /></a>
 </p>
