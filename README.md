@@ -64,6 +64,9 @@
   <a href="https://fsharp.org/"><img src="Icons/fsharp.svg" height="38" alt="F sharp logo"  /></a>
   &nbsp;
   <a href="https://www.python.org/"><img src="Icons/Python.svg" height="38" alt="Python logo"  /></a>
+  &nbsp;
+  <a href="https://wails.io/" target="_blank" rel="noreferrer"><img src="Icons/Wails.svg" height="38" alt="Wails logo"  /></a>
+  
   </div-->
   
 </div>
