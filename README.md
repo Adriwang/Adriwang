@@ -22,6 +22,8 @@
   &nbsp;
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/Svelte.svg" height="38" alt="Svelte logo"  /></a>
   &nbsp;
+  <a href="https://www.python.org/"><img src="Icons/Python.svg" height="38" alt="Python logo"  /></a>
+  &nbsp;
   <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="Icons/Go.svg" height="38" alt="Go logo"  /></a>
   &nbsp;
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="Icons/Dart.svg" height="38" alt="Dart Logo"  /></a>
@@ -62,8 +64,6 @@
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Scala.svg" height="38" alt="Scala logo"  /></a>
   &nbsp;
   <a href="https://fsharp.org/"><img src="Icons/fsharp.svg" height="38" alt="F sharp logo"  /></a>
-  &nbsp;
-  <a href="https://www.python.org/"><img src="Icons/Python.svg" height="38" alt="Python logo"  /></a>
   &nbsp;
   <a href="https://wails.io/" target="_blank" rel="noreferrer"><img src="Icons/Wails.svg" height="38" alt="Wails logo"  /></a>
   
