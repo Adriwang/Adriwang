@@ -42,6 +42,8 @@
   &nbsp;
   <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/Bun.svg" height="38" alt="Bun logo"  /></a>
   &nbsp;
+  <a href="https://www.java.com/en/"><img src="Icons/Java.svg" height="38" alt="Java logo" /></a>
+  &nbsp;
   <a href="https://wails.io/" target="_blank" rel="noreferrer"><img src="Icons/Wails.svg" height="38" alt="Wails logo"  /></a>
   </div>
 
