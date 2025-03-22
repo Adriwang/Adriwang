@@ -24,8 +24,6 @@
   &nbsp;
   <a href="https://ziglang.org/"><img src="Icons/Zig.svg" height="38" alt="Zig logo"  /></a>
   &nbsp;
-  <a href="https://www.python.org/"><img src="Icons/Python.svg" height="38" alt="Python logo"  /></a>
-  &nbsp;
   <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="Icons/Go.svg" height="38" alt="Go logo"  /></a>
   &nbsp;
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="Icons/Dart.svg" height="38" alt="Dart Logo"  /></a>
@@ -45,6 +43,8 @@
   <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/Bun.svg" height="38" alt="Bun logo"  /></a>
   &nbsp;
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/Svelte.svg" height="38" alt="Svelte logo"  /></a>
+  &nbsp;
+  <a href="https://www.python.org/"><img src="Icons/Python.svg" height="38" alt="Python logo"  /></a>
   </div>
 
   <!--div>
