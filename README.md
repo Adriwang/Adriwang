@@ -11,11 +11,6 @@
 <div align="left">
 
   <div>
-    
-  <!--h4>
-    Main:
-  </h4>
-  &nbsp;-->
   <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"><img src="Icons/C.svg" height="38" alt="C logo" /></a>
   &nbsp;
   <a href="https://isocpp.org/"><img src="Icons/cplusplus.svg" height="38" alt="C++ logo" /></a>
@@ -40,14 +35,15 @@
   &nbsp;
   <a href="https://crystal-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Crystal.svg" height="38" alt="Crystal logo"  /></a>
   &nbsp;
+  </div>
+
+  <!--div>
   <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/Bun.svg" height="38" alt="Bun logo"  /></a>
   &nbsp;
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/Svelte.svg" height="38" alt="Svelte logo"  /></a>
   &nbsp;
   <a href="https://www.python.org/"><img src="Icons/Python.svg" height="38" alt="Python logo"  /></a>
-  </div>
-
-  <!--div>
+  &nbsp;
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/csharp.svg" height="38" alt="C Sharp logo"  /></a>
   &nbsp;
   <a href="https://www.lua.org/"><img src="Icons/lua-alt-raster.png" height="40" alt="Lua logo"  /></a>
@@ -65,7 +61,6 @@
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Scala.svg" height="38" alt="Scala logo"  /></a>
   &nbsp;
   <a href="https://fsharp.org/"><img src="Icons/fsharp.svg" height="38" alt="F sharp logo"  /></a>
-  &nbsp;
   &nbsp;
   <a href="https://wails.io/" target="_blank" rel="noreferrer"><img src="Icons/Wails.svg" height="38" alt="Wails logo"  /></a>
   </div-->
