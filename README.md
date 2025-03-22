@@ -22,6 +22,8 @@
   &nbsp;
   <a href="https://www.java.com/en/"><img src="Icons/Java.svg" height="38" alt="Java logo" /></a>
   &nbsp;
+  <a href="https://ziglang.org/"><img src="Icons/Zig.svg" height="38" alt="Zig logo"  /></a>
+  &nbsp;
   <a href="https://www.python.org/"><img src="Icons/Python.svg" height="38" alt="Python logo"  /></a>
   &nbsp;
   <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="Icons/Go.svg" height="38" alt="Go logo"  /></a>
