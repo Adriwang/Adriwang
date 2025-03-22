@@ -35,12 +35,11 @@
   &nbsp;
   <a href="https://crystal-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Crystal.svg" height="38" alt="Crystal logo"  /></a>
   &nbsp;
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/Svelte.svg" height="38" alt="Svelte logo"  /></a>
   </div>
 
   <!--div>
   <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/Bun.svg" height="38" alt="Bun logo"  /></a>
-  &nbsp;
-  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/Svelte.svg" height="38" alt="Svelte logo"  /></a>
   &nbsp;
   <a href="https://www.python.org/"><img src="Icons/Python.svg" height="38" alt="Python logo"  /></a>
   &nbsp;
