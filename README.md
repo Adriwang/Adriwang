@@ -22,8 +22,6 @@
   &nbsp;
   <a href="https://www.java.com/en/"><img src="Icons/Java.svg" height="38" alt="Java logo" /></a>
   &nbsp;
-  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/Svelte.svg" height="38" alt="Svelte logo"  /></a>
-  &nbsp;
   <a href="https://www.python.org/"><img src="Icons/Python.svg" height="38" alt="Python logo"  /></a>
   &nbsp;
   <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="Icons/Go.svg" height="38" alt="Go logo"  /></a>
@@ -43,6 +41,8 @@
   <a href="https://crystal-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Crystal.svg" height="38" alt="Crystal logo"  /></a>
   &nbsp;
   <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/Bun.svg" height="38" alt="Bun logo"  /></a>
+  &nbsp;
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/Svelte.svg" height="38" alt="Svelte logo"  /></a>
   </div>
 
   <!--div>
