@@ -27,6 +27,8 @@
   &nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="Icons/TypeScript.svg" height="38" alt="TypeScript logo"  /></a>
   &nbsp;
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/Svelte.svg" height="38" alt="Svelte logo"  /></a>
+  &nbsp;
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="Icons/Godot.svg" height="38" alt="Godot logo"  /></a>
   &nbsp;
   <a href="https://ctjs.rocks/" target="_blank" rel="noreferrer"><img src="Icons/catjs.svg" height="38" alt="Ct.js logo"  /></a>
@@ -38,8 +40,6 @@
 
   <!--div>
   <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/Bun.svg" height="38" alt="Bun logo"  /></a>
-  &nbsp;
-  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/Svelte.svg" height="38" alt="Svelte logo"  /></a>
   &nbsp;
   <a href="https://www.python.org/"><img src="Icons/Python.svg" height="38" alt="Python logo"  /></a>
   &nbsp;
