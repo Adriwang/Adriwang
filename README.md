@@ -4,16 +4,16 @@
 
 </div>
 
-### ⭐: My Stats :
+### ⭐ My Stats :
 
-<div align="left">
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriwang&count_private=true&layout=donut&theme=radical)](github-readme-stats-chi-jade-92.vercel.app)
 ![Anurag's GitHub stats](https://github-readme-stats-chi-jade-92.vercel.app/api?username=Adriwang&count_private=true&show_icons=true&theme=radical)
 
 </div>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools:</h3>
 
 <div align="left">
 
