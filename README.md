@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriwang&count_private=true&layout=donut&theme=radical)](github-readme-stats-chi-jade-92.vercel.app)
+![Top Langs](https://github-readme-stats-chi-jade-92.vercel.app/api/top-langs/?username=Adriwang&count_private=true&layout=donut&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats-chi-jade-92.vercel.app/api?username=Adriwang&count_private=true&show_icons=true&theme=radical)
 
 </div>
