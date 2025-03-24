@@ -26,11 +26,13 @@
   &nbsp;
   <a href="https://ziglang.org/"><img src="Icons/Zig.svg" height="38" alt="Zig logo"  /></a>
   &nbsp;
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="Icons/Go.svg" height="38" alt="Go logo"  /></a>
+  <a href="https://odin-lang.org/"><img src="Icons/Odin.svg" height="38" alt="Odin logo"  /></a>
   &nbsp;
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="Icons/Dart.svg" height="38" alt="Dart Logo"  /></a>
   &nbsp;
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="Icons/Flutter.svg" height="38" alt="Flutter Logo"  /></a>
+  &nbsp;
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="Icons/Go.svg" height="38" alt="Go logo"  /></a>
   &nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="Icons/TypeScript.svg" height="38" alt="TypeScript logo"  /></a>
   &nbsp;
@@ -49,8 +51,6 @@
   <a href="https://www.python.org/"><img src="Icons/Python.svg" height="38" alt="Python logo"  /></a>
   &nbsp;
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/csharp.svg" height="38" alt="C Sharp logo"  /></a>
-  &nbsp;
-  <a href="https://odin-lang.org/"><img src="Icons/Odin.svg" height="38" alt="Odin logo"  /></a>
   </div-->
   
 </div>
