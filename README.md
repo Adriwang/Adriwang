@@ -46,29 +46,9 @@
   </div>
 
   <!--div>
-  <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/Bun.svg" height="38" alt="Bun logo"  /></a>
-  &nbsp;
   <a href="https://www.python.org/"><img src="Icons/Python.svg" height="38" alt="Python logo"  /></a>
   &nbsp;
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/csharp.svg" height="38" alt="C Sharp logo"  /></a>
-  &nbsp;
-  <a href="https://www.lua.org/"><img src="Icons/lua-alt-raster.png" height="40" alt="Lua logo"  /></a>
-  &nbsp;
-  <a href="https://www.love2d.org/" target="_blank" rel="noreferrer"><img src="Icons/love.svg" height="38" alt="Love2D logo"  /></a>
-  &nbsp;
-  <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="Icons/Angular.svg" height="38" alt="AngularJS logo"  /></a>
-  &nbsp;
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="Icons/React.svg" height="38" alt="React logo"  /></a>
-  &nbsp;
-  <a href="https://vlang.io/"><img src="Icons/V.svg" height="40" alt="V logo"  /></a>
-  &nbsp;
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="Icons/Ruby.svg" height="38" alt="Ruby logo"  /></a>
-  &nbsp;
-  <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Scala.svg" height="38" alt="Scala logo"  /></a>
-  &nbsp;
-  <a href="https://fsharp.org/"><img src="Icons/fsharp.svg" height="38" alt="F sharp logo"  /></a>
-  &nbsp;
-  <a href="https://wails.io/" target="_blank" rel="noreferrer"><img src="Icons/Wails.svg" height="38" alt="Wails logo"  /></a>
   </div-->
   
 </div>
