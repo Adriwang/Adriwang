@@ -73,12 +73,16 @@
   
 </div>
 
-<h3 align="left">📱 Contact Me:</h3>
+<div align="center">
 
-<div align="left">
+<h3>📱 Contact Me:</h3>
+
+<div>
   <a href="https://www.discordapp.com/users/511983544269275137" target="blank"><img align="center" src="Icons/Discord.svg" alt="Discord" height="25" /></a>
   &nbsp;
   <a href="https://mas.to/@Adriwan" target="blank"><img align="center" src="Icons/mastodon.svg" alt="Bluesky" height="25" /></a>
   &nbsp;
   <a href="https://x.com/Adriwan811259" target="blank"><img align="center" src="Icons/Twitter.svg" alt="Twitter / X" height="25" /></a>
+</div>
+
 </div>
