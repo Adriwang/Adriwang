@@ -26,6 +26,8 @@
   &nbsp;
   <a href="https://ziglang.org/"><img src="Icons/Zig.svg" height="38" alt="Zig logo"  /></a>
   &nbsp;
+  <a href="https://odin-lang.org/"><img src="Icons/Odin.svg" height="38" alt="Odin logo"  /></a>
+  &nbsp;
   <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="Icons/Go.svg" height="38" alt="Go logo"  /></a>
   &nbsp;
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="Icons/Dart.svg" height="38" alt="Dart Logo"  /></a>
