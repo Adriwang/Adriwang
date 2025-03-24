@@ -55,7 +55,7 @@
 
 <div align="center">
 
-<h3>📱 Contact Me:</h3>
+<h3>📱 Contact Me</h3>
 
 <div>
   <a href="https://www.discordapp.com/users/511983544269275137" target="blank"><img align="center" src="Icons/Discord.svg" alt="Discord" height="25" /></a>
