@@ -40,14 +40,14 @@
   &nbsp;
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="Icons/Godot.svg" height="38" alt="Godot logo"  /></a>
   &nbsp;
-  <a href="https://ctjs.rocks/" target="_blank" rel="noreferrer"><img src="Icons/catjs.svg" height="38" alt="Ct.js logo"  /></a>
-  &nbsp;
   <a href="https://www.raylib.com/" target="_blank" rel="noreferrer"><img src="Icons/Raylib.svg" height="38" alt="Raylib logo"  /></a>
   &nbsp;
   <a href="https://crystal-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Crystal.svg" height="38" alt="Crystal logo"  /></a>
   </div>
 
   <!--div>
+  <a href="https://ctjs.rocks/" target="_blank" rel="noreferrer"><img src="Icons/catjs.svg" height="38" alt="Ct.js logo"  /></a>
+  &nbsp;
   <a href="https://www.python.org/"><img src="Icons/Python.svg" height="38" alt="Python logo"  /></a>
   &nbsp;
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/csharp.svg" height="38" alt="C Sharp logo"  /></a>
