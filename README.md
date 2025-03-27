@@ -4,7 +4,7 @@
 
 </div>
 
-### ⭐ My Stats :
+## ⭐ My Stats :
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 </div>
 
-<h3 align="left">🛠 Language and tools:</h3>
+## 🛠 Language and tools:
 
 <div align="center">
 
