@@ -13,6 +13,8 @@
 
 </div>
 
+<hr>
+
 ### 🛠 Language and tools:
 
 <div align="center">
