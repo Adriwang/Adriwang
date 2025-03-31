@@ -54,6 +54,8 @@
   &nbsp;
   <a href="https://www.python.org/"><img src="Icons/Python.svg" height="38" alt="Python logo"  /></a>
   &nbsp;
+  <a href="https://www.scala-lang.org/"><img src="Icons/Scala.svg" height="38" alt="Scala logo"  /></a>
+  &nbsp;
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/csharp.svg" height="38" alt="C Sharp logo"  /></a>
   </div-->
   
