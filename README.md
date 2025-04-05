@@ -57,6 +57,8 @@
   <a href="https://www.scala-lang.org/"><img src="Icons/Scala.svg" height="38" alt="Scala logo"  /></a>
   &nbsp;
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/csharp.svg" height="38" alt="C Sharp logo"  /></a>
+  &nbsp;
+  <a href="https://haxe.org/" target="_blank" rel="noreferrer"><img src="Icons/Haxe.svg" height="38" alt="Haxe logo"  /></a>
   </div-->
   
 </div>
