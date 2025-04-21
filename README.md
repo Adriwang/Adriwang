@@ -24,7 +24,7 @@
   &nbsp;
   <a href="https://isocpp.org/"><img src="Icons/cplusplus.svg" height="38" alt="C++ logo" /></a>
   &nbsp;
-  <a href="https://www.java.com/en/"><img src="Icons/Java.svg" height="38" alt="Java logo" /></a>
+  <a href="https://www.java.com/"><img src="Icons/Java.svg" height="38" alt="Java logo" /></a>
   &nbsp;
   <a href="https://ziglang.org/"><img src="Icons/Zig.svg" height="38" alt="Zig logo"  /></a>
   &nbsp;
@@ -41,6 +41,8 @@
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/Svelte.svg" height="38" alt="Svelte logo"  /></a>
   &nbsp;
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="Icons/Godot.svg" height="38" alt="Godot logo"  /></a>
+  &nbsp;
+  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"><img src="Icons/Unreal-Engine.svg" height="38" alt="Unreal Engine logo"  /></a>
   &nbsp;
   <a href="https://www.raylib.com/" target="_blank" rel="noreferrer"><img src="Icons/Raylib.svg" height="38" alt="Raylib logo"  /></a>
   &nbsp;
