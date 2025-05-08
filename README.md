@@ -42,13 +42,11 @@
   &nbsp;
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="Icons/Godot.svg" height="38" alt="Godot logo"  /></a>
   &nbsp;
-  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"><img src="Icons/Unreal-Engine.svg" height="38" alt="Unreal Engine logo"  /></a>
-  &nbsp;
   <a href="https://www.raylib.com/" target="_blank" rel="noreferrer"><img src="Icons/Raylib.svg" height="38" alt="Raylib logo"  /></a>
   &nbsp;
   <a href="https://crystal-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Crystal.svg" height="38" alt="Crystal logo"  /></a>
   &nbsp;
-  <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/Bun.svg" height="38" alt="Bun logo"  /></a>
+  <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"><img src="Icons/GTK.svg" height="38" alt="GTK logo"  /></a>
   </div>
 <hr>
   <!--div>
@@ -61,6 +59,10 @@
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/csharp.svg" height="38" alt="C Sharp logo"  /></a>
   &nbsp;
   <a href="https://haxe.org/" target="_blank" rel="noreferrer"><img src="Icons/Haxe.svg" height="38" alt="Haxe logo"  /></a>
+  &nbsp;
+  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"><img src="Icons/Unreal-Engine.svg" height="38" alt="Unreal Engine logo"  /></a>
+  &nbsp;
+  <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/Bun.svg" height="38" alt="Bun logo"  /></a>
   </div-->
   
 </div>
@@ -71,7 +73,7 @@
 
 <div>
   <a href="https://www.discordapp.com/users/511983544269275137" target="blank"><img align="center" src="Icons/Discord.svg" alt="Discord" height="25" /></a>
-  &nbsp;
+  &nbsp
   <a href="https://mas.to/@Adriwan" target="blank"><img align="center" src="Icons/mastodon.svg" alt="Bluesky" height="25" /></a>
   &nbsp;
   <a href="https://x.com/Adriwan811259" target="blank"><img align="center" src="Icons/Twitter.svg" alt="Twitter / X" height="25" /></a>
