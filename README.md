@@ -38,6 +38,8 @@
   &nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="Icons/TypeScript.svg" height="38" alt="TypeScript logo"  /></a>
   &nbsp;
+  <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"><img src="Icons/Solid.svg" height="38" alt="Solid logo"  /></a>
+  &nbsp;
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/Svelte.svg" height="38" alt="Svelte logo"  /></a>
   &nbsp;
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="Icons/Godot.svg" height="38" alt="Godot logo"  /></a>
