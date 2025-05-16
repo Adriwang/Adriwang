@@ -48,6 +48,8 @@
   &nbsp;
   <a href="https://crystal-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Crystal.svg" height="38" alt="Crystal logo"  /></a>
   &nbsp;
+  <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/Bun.svg" height="38" alt="Bun logo"  /></a>
+  &nbsp;
   <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"><img src="Icons/GTK.svg" height="38" alt="GTK logo"  /></a>
   </div>
 <hr>
@@ -63,8 +65,6 @@
   <a href="https://haxe.org/" target="_blank" rel="noreferrer"><img src="Icons/Haxe.svg" height="38" alt="Haxe logo"  /></a>
   &nbsp;
   <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"><img src="Icons/Unreal-Engine.svg" height="38" alt="Unreal Engine logo"  /></a>
-  &nbsp;
-  <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/Bun.svg" height="38" alt="Bun logo"  /></a>
   </div-->
   
 </div>
