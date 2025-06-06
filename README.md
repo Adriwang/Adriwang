@@ -54,19 +54,19 @@
   </div>
 <hr>
   <!--div>
-  <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Nim.svg" height="35" alt="Nim logo"  /></a>
-  &nbsp;
-  <a href="https://haxe.org/" target="_blank" rel="noreferrer"><img src="Icons/Haxe.svg" height="38" alt="Haxe logo"  /></a>
-  &nbsp;
-  <a href="https://ctjs.rocks/" target="_blank" rel="noreferrer"><img src="Icons/catjs.svg" height="38" alt="Ct.js logo"  /></a>
-  &nbsp;
   <a href="https://www.python.org/"><img src="Icons/Python.svg" height="38" alt="Python logo"  /></a>
   &nbsp;
   <a href="https://www.ruby-lang.org"><img src="Icons/Ruby.svg" height="38" alt="Ruby logo"  /></a>
   &nbsp;
   <a href="https://www.scala-lang.org/"><img src="Icons/Scala.svg" height="38" alt="Scala logo"  /></a>
   &nbsp;
+  <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Nim.svg" height="35" alt="Nim logo"  /></a>
+  &nbsp;
+  <a href="https://haxe.org/" target="_blank" rel="noreferrer"><img src="Icons/Haxe.svg" height="38" alt="Haxe logo"  /></a>
+  &nbsp;
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/csharp.svg" height="38" alt="C Sharp logo"  /></a>
+  &nbsp;
+  <a href="https://ctjs.rocks/" target="_blank" rel="noreferrer"><img src="Icons/catjs.svg" height="38" alt="Ct.js logo"  /></a>
   &nbsp;
   <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"><img src="Icons/Unreal-Engine.svg" height="38" alt="Unreal Engine logo"  /></a>
   </div-->
