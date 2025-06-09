@@ -13,14 +13,14 @@
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs1"><linearGradient
        id="linearGradient15"><stop
-         style="stop-color:#9c033a;stop-opacity:0.24946696;"
+         style="stop-color:#9e073d;stop-opacity:0.25159913;"
          offset="0"
          id="stop15" /><stop
-         style="stop-color:#d26383;stop-opacity:0.50319827;"
+         style="stop-color:#d05f80;stop-opacity:0.4968017;"
          offset="1"
          id="stop16" /></linearGradient><linearGradient
        id="linearGradient2"><stop
-         style="stop-color:#9c033a;stop-opacity:1;"
+         style="stop-color:#9e063c;stop-opacity:1;"
          offset="0"
          id="stop2" /><stop
          style="stop-color:#000000;stop-opacity:0;"
@@ -29,7 +29,7 @@
          style="stop-color:#000000;stop-opacity:0;"
          offset="0.69999999"
          id="stop17" /><stop
-         style="stop-color:#d26383;stop-opacity:1;"
+         style="stop-color:#d16081;stop-opacity:1;"
          offset="1"
          id="stop3" /></linearGradient><linearGradient
        xlink:href="#linearGradient2"
