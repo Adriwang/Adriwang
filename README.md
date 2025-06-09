@@ -36,7 +36,7 @@
   <a href="https://crystal-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Crystal_Box.svg" height="38" alt="Crystal logo"  /></a>
   <a href="https://www.ruby-lang.org"><img src="Icons/boxes/Ruby_Box.svg" height="38" alt="Ruby logo"  /></a>
   <a href="https://www.python.org/"><img src="Icons/boxes/Python_Box.svg" height="38" alt="Python logo"  /></a>
-  <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Nim_Box.svg" height="35" alt="Nim logo"  /></a>
+  <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Nim_Box.svg" height="38" alt="Nim logo"  /></a>
   <a href="https://haxe.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Haxe_Box.svg" height="38" alt="Haxe logo"  /></a>
   &nbsp;
   <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/Bun.svg" height="38" alt="Bun logo"  /></a>
