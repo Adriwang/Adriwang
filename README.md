@@ -20,23 +20,23 @@
 <div align="center">
 
   <div>
-  <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"><img src="Icons/C.svg" height="38" alt="C logo" /></a>
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"><img src="Icons/boxes/C_Box.svg" height="38" alt="C logo" /></a>
   &nbsp;
-  <a href="https://isocpp.org/"><img src="Icons/cplusplus.svg" height="38" alt="C++ logo" /></a>
+  <a href="https://isocpp.org/"><img src="Icons/boxes/CPP_Box.svg" height="38" alt="C++ logo" /></a>
   &nbsp;
-  <a href="https://www.java.com/"><img src="Icons/Java.svg" height="38" alt="Java logo" /></a>
+  <a href="https://www.java.com/"><img src="Icons/boxes/Java_Box.svg" height="38" alt="Java logo" /></a>
   &nbsp;
-  <a href="https://ziglang.org/"><img src="Icons/Zig.svg" height="38" alt="Zig logo"  /></a>
+  <a href="https://ziglang.org/"><img src="Icons/boxes/Zig_Box.svg" height="38" alt="Zig logo"  /></a>
   &nbsp;
-  <a href="https://odin-lang.org/"><img src="Icons/Odin.svg" height="38" alt="Odin logo"  /></a>
+  <a href="https://odin-lang.org/"><img src="Icons/boxes/Odin_Box.svg" height="38" alt="Odin logo"  /></a>
   &nbsp;
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="Icons/Go.svg" height="38" alt="Go logo"  /></a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Go_Box.svg" height="38" alt="Go logo"  /></a>
   &nbsp;
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="Icons/Dart.svg" height="38" alt="Dart Logo"  /></a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Dart_Box.svg" height="38" alt="Dart Logo"  /></a>
   &nbsp;
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="Icons/Flutter.svg" height="38" alt="Flutter Logo"  /></a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Flutter_Box.svg" height="38" alt="Flutter Logo"  /></a>
   &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="Icons/TypeScript.svg" height="38" alt="TypeScript logo"  /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/TypeScript_Box.svg" height="38" alt="TypeScript logo"  /></a>
   &nbsp;
   <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"><img src="Icons/Solid.svg" height="38" alt="Solid logo"  /></a>
   &nbsp;
