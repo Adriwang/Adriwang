@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    xml:space="preserve"
-   sodipodi:docname="Haxe_Box.svg"
+   sodipodi:docname="Bun_Box.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,7 +25,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="3.0876875"
-     inkscape:cx="54.571585"
+     inkscape:cx="54.895452"
      inkscape:cy="85.662814"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
@@ -38,7 +38,7 @@
          style="stop-color:#fbf0df;stop-opacity:0.50105262;"
          offset="0"
          id="stop15" /><stop
-         style="stop-color:#f6dece;stop-opacity:0.80000001;"
+         style="stop-color:#f0caaf;stop-opacity:0.80000001;"
          offset="1"
          id="stop16" /></linearGradient><linearGradient
        id="linearGradient2"><stop
