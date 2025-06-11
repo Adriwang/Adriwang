@@ -38,11 +38,8 @@
   <a href="https://www.python.org/"><img src="Icons/boxes/Python_Box.svg" height="40" alt="Python logo"  /></a>
   <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Nim_Box.svg" height="40" alt="Nim logo"  /></a>
   <a href="https://haxe.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Haxe_Box.svg" height="40" alt="Haxe logo"  /></a>
-  &nbsp;
-  <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/Bun.svg" height="40" alt="Bun logo"  /></a>
-  &nbsp;
-  <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"><img src="Icons/GTK.svg" height="40" alt="GTK logo"  /></a>
-  &nbsp;
+  <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Bun_Box.svg" height="40" alt="Bun logo"  /></a>
+  <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/GTK_Box.svg" height="40" alt="GTK logo"  /></a>
   <a href="https://www.blackmagicdesign.com/ca/products/davinciresolve" target="_blank" rel="noreferrer"><img src="Icons/DaVinci_Resolve.png" height="40" alt="DaVinci Resolve logo"  /></a>
   </div>
 <hr>
