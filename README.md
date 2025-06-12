@@ -49,8 +49,6 @@
   &nbsp;
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/Scala.svg" height="40" alt="Scala logo"  /></a>
   &nbsp;
-  <a href="https://ctjs.rocks/" target="_blank" rel="noreferrer"><img src="Icons/catjs.svg" height="40" alt="Ct.js logo"  /></a>
-  &nbsp;
   <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"><img src="Icons/Unreal-Engine.svg" height="40" alt="Unreal Engine logo"  /></a>
   </div-->
   
