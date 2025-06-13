@@ -4,7 +4,7 @@
 
 </div>
 
-# 🌲 Adriwang
+# 🌲 Adrian Chajter
 
 <div align="center">
 
