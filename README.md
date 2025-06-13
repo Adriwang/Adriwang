@@ -46,9 +46,9 @@
   </div>
 <hr>
   <!--div>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/csharp.svg" height="40" alt="C Sharp logo"  /></a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/csharp.svg" height="45" alt="C Sharp logo"  /></a>
   &nbsp;
-  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"><img src="Icons/Unreal-Engine.svg" height="40" alt="Unreal Engine logo"  /></a>
+  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"><img src="Icons/Unreal-Engine.svg" height="45" alt="Unreal Engine logo"  /></a>
   </div-->
   
 </div>
