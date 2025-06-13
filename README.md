@@ -4,6 +4,17 @@
 
 </div>
 
+# 🌲 Adriwang
+
+<div align="center">
+
+**`Digital Craftsman (Software Developer, Graphic Designer)`**
+
+<!--Add Text Later-->
+
+</div>
+
+
 ### ⭐ My Stats :
 <hr>
 <div align="center">
@@ -17,7 +28,7 @@
 
 ### 🛠 Language and tools:
 
-<div align="center">
+<div align="left">
 
   <div>
   <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"><img src="Icons/boxes/C_Box.svg" height="45" alt="C logo" /></a>
