@@ -25,7 +25,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="3.3534648"
-     inkscape:cx="47.562748"
+     inkscape:cx="47.711847"
      inkscape:cy="85.732225"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
@@ -42,7 +42,7 @@
          offset="1"
          id="stop16" /></linearGradient><linearGradient
        id="linearGradient2"><stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:0.50215518;"
          offset="0"
          id="stop2" /><stop
          style="stop-color:#ffffff;stop-opacity:0;"
@@ -51,7 +51,7 @@
          style="stop-color:#ffffff;stop-opacity:0;"
          offset="0.69999999"
          id="stop17" /><stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:0.50431037;"
          offset="1"
          id="stop3" /></linearGradient><linearGradient
        xlink:href="#linearGradient2"
