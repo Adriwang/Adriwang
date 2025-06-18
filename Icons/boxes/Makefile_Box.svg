@@ -4,10 +4,11 @@
    width="50"
    version="1.1"
    id="svg83"
-   sodipodi:docname="text-x-makefile.svg"
+   sodipodi:docname="Makefile_Box.svg"
    inkscape:export-filename="Makefile_Box.svg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,7 +25,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     showgrid="false" />
+     showgrid="false"
+     inkscape:zoom="21.12"
+     inkscape:cx="20.123106"
+     inkscape:cy="24.692235"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg83" />
   <linearGradient
      id="a"
      gradientUnits="userSpaceOnUse"
@@ -130,7 +140,7 @@
      id="j"
      color-interpolation-filters="sRGB"
      height="1.3213328"
-     width="1.3213336"
+     width="1.3213337"
      x="-0.16066687"
      y="-0.16066641">
     <feGaussianBlur
@@ -213,14 +223,4 @@
        fill="#ffffff"
        id="path77" />
   </g>
-  <rect
-     height="66"
-     rx="12"
-     style="opacity:0.5;fill:url(#m);stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;filter:url(#l)"
-     width="66"
-     x="15"
-     y="15"
-     clip-path="url(#k)"
-     id="rect81"
-     transform="matrix(0.5952381,0,0,0.5952381,-3.5714286,-3.5714286)" />
 </svg>
