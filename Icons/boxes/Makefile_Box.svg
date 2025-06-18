@@ -27,8 +27,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="21.12"
-     inkscape:cx="20.123106"
-     inkscape:cy="24.692235"
+     inkscape:cx="22.253788"
+     inkscape:cy="24.976326"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="0"
@@ -124,11 +124,13 @@
     <stop
        offset="0"
        stop-color="#bababa"
-       id="stop21" />
+       id="stop21"
+       style="stop-color:#818181;stop-opacity:1;" />
     <stop
        offset="1"
        stop-color="#d2d2d2"
-       id="stop23" />
+       id="stop23"
+       style="stop-color:#a7a7a7;stop-opacity:1;" />
   </linearGradient>
   <clipPath
      id="i">
