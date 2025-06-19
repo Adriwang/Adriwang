@@ -28,7 +28,7 @@
 
 <div align="left">
 
-  ### 🛠 Languages and tools:
+  ### 🛠 Languages and Tools:
 
   <div>
   <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"><img src="Icons/boxes/C_Box.svg" height="45" alt="C logo" /></a>
