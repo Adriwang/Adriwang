@@ -64,6 +64,8 @@
   <div>
     <a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Makefile_Box.svg" height="45" alt="Makefile logo"  /></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Bash_Box.svg" height="45" alt="Bash logo"  /></a>
+    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Sass_Box.svg" height="45" alt="Sass logo"  /></a>
+    <a href="https://gradle.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Gradle_Box.svg" height="45" alt="Gradle logo"  /></a>
     <a href="https://www.debian.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Debian_Box.svg" height="45" alt="Debian logo"  /></a>
     <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Arch_Box.svg" height="45" alt="Arch logo"  /></a>
     <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"><img src="Icons/boxes/Windows_Box.svg" height="45" alt="Windows logo"  /></a>
