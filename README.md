@@ -68,6 +68,7 @@
     <a href="https://gradle.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Gradle_Box.svg" height="45" alt="Gradle logo"  /></a>
     <a href="https://www.debian.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Debian_Box.svg" height="45" alt="Debian logo"  /></a>
     <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Arch_Box.svg" height="45" alt="Arch logo"  /></a>
+    <a href="https://www.freebsd.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/FreeBSD_Box.svg" height="45" alt="FreeBSD logo"  /></a>
     <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"><img src="Icons/boxes/Windows_Box.svg" height="45" alt="Windows logo"  /></a>
     <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"><img src="Icons/boxes/DaVinci_Resolve_Box.svg" height="45" alt="DaVinci Resolve logo"  /></a>
     <a href="https://inkscape.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Inkscape_Box.svg" height="45" alt="Inkscape logo"  /></a>
