@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.1856289"
-     inkscape:cx="81.813124"
-     inkscape:cy="150.55302"
+     inkscape:zoom="3.3534649"
+     inkscape:cx="76.637151"
+     inkscape:cy="114.35933"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="0"
@@ -43,7 +43,7 @@
          offset="1"
          id="stop16" /></linearGradient><linearGradient
        id="linearGradient2"><stop
-         style="stop-color:#ffffff;stop-opacity:0.74674529;"
+         style="stop-color:#ffffff;stop-opacity:0.5;"
          offset="0"
          id="stop2" /><stop
          style="stop-color:#ffffff;stop-opacity:0;"
@@ -52,7 +52,7 @@
          style="stop-color:#ffffff;stop-opacity:0;"
          offset="0.69999999"
          id="stop17" /><stop
-         style="stop-color:#ffffff;stop-opacity:0.75147927;"
+         style="stop-color:#ffffff;stop-opacity:0.5;"
          offset="1"
          id="stop3" /></linearGradient><linearGradient
        xlink:href="#linearGradient2"
