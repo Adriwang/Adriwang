@@ -41,6 +41,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/TypeScript_Box.svg" height="45" alt="TypeScript logo"  /></a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Svelte_Box.svg" height="45" alt="Svelte logo"  /></a>
   <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Solid_Box.svg" height="45" alt="Solid logo"  /></a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Sass_Box.svg" height="45" alt="Sass logo"  /></a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/boxes/CSharp_Box.svg" height="45" alt="C Sharp logo"  /></a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Java_Box.svg" height="45" alt="Java logo" /></a>
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Scala_Box.svg" height="45" alt="Scala logo"  /></a>
@@ -53,7 +54,6 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Python_Box.svg" height="45" alt="Python logo"  /></a>
   <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Nim_Box.svg" height="45" alt="Nim logo"  /></a>
   <a href="https://haxe.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Haxe_Box.svg" height="45" alt="Haxe logo"  /></a>
-  <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Bun_Box.svg" height="45" alt="Bun logo"  /></a>
   <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/GTK_Box.svg" height="45" alt="GTK logo"  /></a>
   </div>
   
@@ -63,9 +63,9 @@
   
   <div>
     <a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Makefile_Box.svg" height="45" alt="Makefile logo"  /></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Bash_Box.svg" height="45" alt="Bash logo"  /></a>
-    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Sass_Box.svg" height="45" alt="Sass logo"  /></a>
     <a href="https://gradle.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Gradle_Box.svg" height="45" alt="Gradle logo"  /></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Bash_Box.svg" height="45" alt="Bash logo"  /></a>
+    <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Bun_Box.svg" height="45" alt="Bun logo"  /></a>
     <a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Android_Box.svg" height="45" alt="Android logo"  /></a>
     <a href="https://www.debian.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Debian_Box.svg" height="45" alt="Debian logo"  /></a>
     <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Arch_Box.svg" height="45" alt="Arch logo"  /></a>
