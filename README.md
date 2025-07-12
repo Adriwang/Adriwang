@@ -54,12 +54,14 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Python_Box.svg" height="45" alt="Python logo"  /></a>
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Godot_Box.svg" height="45" alt="Godot logo"  /></a>
   <a href="https://www.raylib.com/" target="_blank" rel="noreferrer"><img src="Icons/Raylib.svg" height="45" alt="Raylib logo"  /></a>
+  <a href="https://wails.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Wails_Box.svg" height="45" alt="Wails logo"  /></a>
+  <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Tauri_Box.svg" height="45" alt="Tauri logo"  /></a>
   <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/GTK_Box.svg" height="45" alt="GTK logo"  /></a>
-    <a href="https://www.vulkan.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Vulkan_Box.svg" height="45" alt="Vulkan logo"  /></a>
-    <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/OpenGL_Box.svg" height="45" alt="OpenGL logo"  /></a>
+  <a href="https://www.vulkan.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Vulkan_Box.svg" height="45" alt="Vulkan logo"  /></a>
+  <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/OpenGL_Box.svg" height="45" alt="OpenGL logo"  /></a>
   <a href="https://shader-slang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Slang_Box.svg" height="45" alt="Slang logo"  /></a>
   </div>
-  
+
   <hr>
 
   ### 🖥️ Software:
