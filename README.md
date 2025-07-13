@@ -45,8 +45,8 @@
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Sass_Box.svg" height="45" alt="Sass logo"  /></a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/boxes/CSharp_Box.svg" height="45" alt="C Sharp logo"  /></a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Java_Box.svg" height="45" alt="Java logo" /></a>
-  <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Scala_Box.svg" height="45" alt="Scala logo"  /></a>
   <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Groovy_Box.svg" height="45" alt="Groovy logo"  /></a>
+  <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Scala_Box.svg" height="45" alt="Scala logo"  /></a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Kotlin_Box.svg" height="45" alt="Kotlin logo"  /></a>
   <a href="https://haxe.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Haxe_Box.svg" height="45" alt="Haxe logo"  /></a>
   <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Nim_Box.svg" height="45" alt="Nim logo"  /></a>
