@@ -61,6 +61,7 @@
   <a href="https://www.vulkan.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Vulkan_Box.svg" height="45" alt="Vulkan logo"  /></a>
   <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/OpenGL_Box.svg" height="45" alt="OpenGL logo"  /></a>
   <a href="https://shader-slang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Slang_Box.svg" height="45" alt="Slang logo"  /></a>
+  <a href="https://sqlite.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SQLite_Box.svg" height="45" alt="SQLite logo"  /></a>
   </div>
 
   <hr>
