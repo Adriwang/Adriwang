@@ -40,8 +40,8 @@
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Dart_Box.svg" height="45" alt="Dart Logo"  /></a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Flutter_Box.svg" height="45" alt="Flutter Logo"  /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/TypeScript_Box.svg" height="45" alt="TypeScript logo"  /></a>
-  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Svelte_Box.svg" height="45" alt="Svelte logo"  /></a>
   <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Solid_Box.svg" height="45" alt="Solid logo"  /></a>
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Svelte_Box.svg" height="45" alt="Svelte logo"  /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Sass_Box.svg" height="45" alt="Sass logo"  /></a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/boxes/CSharp_Box.svg" height="45" alt="C Sharp logo"  /></a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Java_Box.svg" height="45" alt="Java logo" /></a>
