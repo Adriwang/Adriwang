@@ -6,12 +6,34 @@
    fill="none"
    version="1.1"
    id="svg38"
+   sodipodi:docname="GIMP_Box.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.12301051"
+     inkscape:cx="-853.58559"
+     inkscape:cy="707.25663"
+     inkscape:window-width="2560"
+     inkscape:window-height="1412"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg38" />
   <g
      filter="url(#filter0_d)"
      id="g1"
-     transform="translate(-77,-86)">
+     transform="matrix(1.054023,0,0,1.054023,-104.15977,-105.64598)">
     <rect
        x="100"
        y="100"
@@ -25,7 +47,7 @@
   <g
      filter="url(#filter1_d)"
      id="g13"
-     transform="translate(-77,-86)">
+     transform="matrix(1.054023,0,0,1.054023,-104.15977,-102.78484)">
     <path
        fill-rule="evenodd"
        clip-rule="evenodd"
@@ -210,12 +232,12 @@
          stop-color="#F3F3F3"
          id="stop17"
          offset="0"
-         style="stop-color:#665c50;stop-opacity:1;" />
+         style="stop-color:#85735e;stop-opacity:1;" />
       <stop
-         offset="1"
+         offset="0.9986431"
          stop-color="#AFA894"
          id="stop18"
-         style="stop-color:#735937;stop-opacity:1;" />
+         style="stop-color:#927147;stop-opacity:1;" />
     </linearGradient>
     <radialGradient
        id="paint1_radial"
