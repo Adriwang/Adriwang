@@ -88,7 +88,7 @@
     <a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noreferrer"><img src="Icons/boxes/FL_Studio_Box.png" height="45" alt="FL Studio logo"  /></a>
     <a href="https://www.steinberg.net/nuendo/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Nuendo_Box.png" height="45" alt="Nuendo logo"  /></a>
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Blender_Box.png" height="45" alt="Blender logo"  /></a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Vscode_Box.png" height="45" alt="VS Code logo"  /></a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Vscode_Box.svg" height="45" alt="VS Code logo"  /></a>
   </div>
   
 <hr>
