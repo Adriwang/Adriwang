@@ -77,6 +77,7 @@
     <a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Makefile_Box.svg" height="45" alt="Makefile logo"  /></a>
     <a href="https://gradle.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Gradle_Box.svg" height="45" alt="Gradle logo"  /></a>
     <a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Android_Box.svg" height="45" alt="Android logo"  /></a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Linux_Box.svg" height="45" alt="Linux logo"  /></a>
     <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Arch_Box.svg" height="45" alt="Arch logo"  /></a>
     <a href="https://www.freebsd.org/" target="_blank" rel="noreferrer">
     <!--Vector Image Does Not Load Properly on Most Browsers, Set as Fallback-->
