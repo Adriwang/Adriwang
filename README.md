@@ -88,7 +88,7 @@
     <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"><img src="Icons/boxes/Windows_Box.svg" height="45" alt="Windows logo"  /></a>
     <a href="https://inkscape.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Inkscape_Box.png" height="45" alt="Inkscape logo"  /></a>
     <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/GIMP_Box.png" height="45" alt="GIMP logo"  /></a>
-    <a href="https://krita.org/en/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Krita_Box.svg" height="45" alt="Krita logo"  /></a>
+    <a href="https://krita.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Krita_Box.svg" height="45" alt="Krita logo"  /></a>
     <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"><img src="Icons/DaVinci_Resolve.png" height="45" alt="DaVinci Resolve logo"  /></a>
     <a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noreferrer"><img src="Icons/boxes/FL_Studio_Box.png" height="45" alt="FL Studio logo"  /></a>
     <a href="https://www.steinberg.net/nuendo/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Nuendo_Box.png" height="45" alt="Nuendo logo"  /></a>
