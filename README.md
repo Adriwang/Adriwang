@@ -87,7 +87,7 @@
     <a href="https://krita.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Krita_Box.svg" height="45" alt="Krita logo"  /></a>
     <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"><img src="Icons/DaVinci_Resolve.png" height="45" alt="DaVinci Resolve logo"  /></a>
     <a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noreferrer"><img src="Icons/boxes/FL_Studio_Box.png" height="45" alt="FL Studio logo"  /></a>
-    <a href="https://www.steinberg.net/nuendo/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Nuendo_Box.png" height="45" alt="Nuendo logo"  /></a>
+    <a href="https://www.steinberg.net/nuendo/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Nuendo_Box.svg" height="45" alt="Nuendo logo"  /></a>
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Blender_Box.png" height="45" alt="Blender logo"  /></a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Vscode_Box.svg" height="45" alt="VS Code logo"  /></a>
   </div>
@@ -105,9 +105,9 @@
 <h3>📱 Contact Me</h3>
 
 <div>
-  <a href="https://www.discordapp.com/users/511983544269275137" target="blank"><img align="center" src="Icons/Discord.svg" alt="Discord" height="30" /></a>
+  <a href="https://www.discordapp.com/users/511983544269275137" target="blank"><img align="center" src="Icons/boxes/Discord.svg" alt="Discord" height="30" /></a>
   &nbsp;
-  <a href="https://x.com/Adriwan811259" target="blank"><img align="center" src="Icons/Twitter.svg" alt="Twitter / X" height="30" /></a>
+  <a href="https://x.com/Adriwan811259" target="blank"><img align="center" src="Icons/boxes/Twitter.svg" alt="Twitter / X" height="30" /></a>
 </div>
 
 </div>
