@@ -143,13 +143,13 @@
        inkscape:collect="always"
        stdDeviation="19.2442"
        id="feGaussianBlur10" /></filter></defs><sodipodi:namedview
-   inkscape:current-layer="svg10"
+   inkscape:current-layer="g3"
    inkscape:window-maximized="1"
    inkscape:window-y="0"
    inkscape:window-x="0"
-   inkscape:cy="325.27707"
-   inkscape:cx="136.14124"
-   inkscape:zoom="1.6416774"
+   inkscape:cy="563.38454"
+   inkscape:cx="-99.066089"
+   inkscape:zoom="0.58042061"
    showgrid="false"
    id="namedview12"
    inkscape:window-height="1412"
@@ -3159,7 +3159,7 @@ znE76fwC
        id="g6"
        inkscape:label="Center"
        style="display:inline"
-       transform="matrix(0.98751797,0,0,0.99125673,7.4391489,8.4226641)"><rect
+       transform="matrix(0.98751797,0,0,0.99125673,7.4391489,-0.13490387)"><rect
          style="display:inline;fill:url(#linearGradient3);stroke:none;stroke-width:5.87162;stroke-dasharray:none;stroke-opacity:1"
          id="rect2-9"
          width="305.24493"
