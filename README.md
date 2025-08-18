@@ -1,8 +1,8 @@
-<div align="center">
+<!--div align="center">
 
   <a href="https://www.codewars.com/users/Adriwan">![Codewars Stats](https://www.codewars.com/users/Adriwan/badges/large)</a>
 
-</div>
+</div-->
 
 # 🌲 Adrian Chajter
 
