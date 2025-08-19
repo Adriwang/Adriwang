@@ -8,13 +8,18 @@
 
 **`Digital Craftsman (Software Developer, Graphic Designer)`**
 
-<h4 align="left">
+<div align="left">
 
-My main focus right now is Cryo3D, a game engine I’m building from the ground up. I split my time between Software Engineering, Graphic Design, and Audio Engineering — basically shaping the whole experience myself.
+My main focus right now is **Cryo3D**, a game engine I’m building completely from the ground up.
 
-I like mixing in skeuomorphic design when I can, giving projects a more tangible feel instead of flat minimalism.
+I split my time between **Software Engineering**, **Graphic Design**, and **Audio Engineering** — basically shaping the whole experience myself, from the code that runs it to the way it looks and sounds.  
 
-</h4>
+I’m also into **skeuomorphic design**, adding little touches of realism to my projects. I like giving interfaces and assets a sense of depth and tactility instead of the flat minimalism that’s everywhere today.  
+
+This profile is where I drop the results of that process — projects, experiments, the things I think are worth showing off.  
+
+
+</div>
 
 
 ### ⭐ My Stats :
