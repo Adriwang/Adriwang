@@ -6,13 +6,15 @@
 
 # 🌲 Adrian Chajter
 
-<div align="center">
-
 **`Digital Craftsman (Software Developer, Graphic Designer)`**
 
-<!--Add Text Later-->
+<h4 align="left">
 
-</div>
+My main focus right now is Cryo3D, a game engine I’m building from the ground up. I split my time between Software Engineering, Graphic Design, and Audio Engineering — basically shaping the whole experience myself.
+
+I like mixing in skeuomorphic design when I can, giving projects a more tangible feel instead of flat minimalism.
+
+</h4>
 
 
 ### ⭐ My Stats :
