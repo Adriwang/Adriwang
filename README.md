@@ -12,12 +12,13 @@
 
 My main focus right now is **Cryo3D**, a game engine I’m building completely from the ground up.
 
-I split my time between **Software Engineering**, **Graphic Design**, and **Audio Engineering** — basically shaping the whole experience myself, from the code that runs it to the way it looks and sounds.  
+I split my time between **Software Engineering**, **Graphic Design**, and **Audio Engineering** — basically shaping the whole experience myself.
 
 I’m also into **skeuomorphic design**, adding little touches of realism to my projects. I like giving interfaces and assets a sense of depth and tactility instead of the flat minimalism that’s everywhere today.  
 
-This profile is where I drop the results of that process — projects, experiments, the things I think are worth showing off.  
+This profile is where I drop the results of that process — projects, experiments, the things I think are worth showing off.
 
+**I choose not to develop for macOS or other Apple platforms due to their reliance on proprietary APIs, closed ecosystem control, and restrictive App Store policies.**
 
 </div>
 
