@@ -14,7 +14,7 @@ My main focus right now is **Cryo3D**, a game engine I’m building completely f
 
 I split my time between **Software Engineering**, **Graphic Design**, and **Audio Engineering** — basically shaping the whole experience myself.
 
-I’m also into **skeuomorphic design**, adding little touches of realism to my projects. I like giving interfaces and assets a sense of depth and tactility instead of the flat minimalism that’s everywhere today.  
+I’m also into **skeuomorphic design**, integrating subtle elements of realism into my work. I like giving interfaces and assets a sense of depth and tactility instead of the flat minimalism that’s everywhere today.  
 
 This profile is where I drop the results of that process — projects, experiments, the things I think are worth showing off.
 
