@@ -51,6 +51,7 @@ This profile is where I drop the results of that process — projects, experimen
   <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Solid_Box.svg" height="45" alt="Solid logo"  /></a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Svelte_Box.svg" height="45" alt="Svelte logo"  /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Sass_Box.svg" height="45" alt="Sass logo"  /></a>
+  <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/elixir_Box.svg" height="45" alt="elixir logo"  /></a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/boxes/CSharp_Box.svg" height="45" alt="C Sharp logo"  /></a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Java_Box.svg" height="45" alt="Java logo" /></a>
   <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Groovy_Box.svg" height="45" alt="Groovy logo"  /></a>
@@ -61,7 +62,6 @@ This profile is where I drop the results of that process — projects, experimen
   <a href="https://crystal-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Crystal_Box.svg" height="45" alt="Crystal logo"  /></a>
   <a href="https://www.ruby-lang.org" target="_blank" rel="noreferrer"><img src="Icons/boxes/Ruby_Box.svg" height="45" alt="Ruby logo"  /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Python_Box.svg" height="45" alt="Python logo"  /></a>
-  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Godot_Box.svg" height="45" alt="Godot logo"  /></a>
   <a href="https://wails.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Wails_Box.svg" height="45" alt="Wails logo"  /></a>
   <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Tauri_Box.svg" height="45" alt="Tauri logo"  /></a>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="Icons/Qt.svg" height="45" alt="Qt logo"  /></a>
@@ -102,11 +102,9 @@ This profile is where I drop the results of that process — projects, experimen
   
 <hr>
   <!--div>
-  <a href="https://www.debian.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Debian_Box.svg" height="45" alt="Debian logo"  /></a>
-  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"><img src="Icons/Unreal-Engine.svg" height="45" alt="Unreal Engine logo"  /></a>
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Godot_Box.svg" height="45" alt="Godot logo"  /></a>
   <a href="https://www.raylib.com/" target="_blank" rel="noreferrer"><img src="Icons/Raylib.svg" height="45" alt="Raylib logo"  /></a>
-  </div-->
-  
+  </div--> 
 </div>
 
 <div align="center">
