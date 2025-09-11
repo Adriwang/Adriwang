@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="3.0929791"
-     inkscape:cx="66.925767"
-     inkscape:cy="79.050001"
+     inkscape:zoom="2.1870665"
+     inkscape:cx="-55.782483"
+     inkscape:cy="77.043839"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
@@ -45,14 +45,29 @@
        bleed="0" /></sodipodi:namedview><defs
      id="defs1"><linearGradient
        id="linearGradient5"><stop
-         style="stop-color:#48205d;stop-opacity:1;"
+         style="stop-color:#381054;stop-opacity:1;"
          offset="0.00462963"
          id="stop1" /><stop
-         style="stop-color:#9f8daf;stop-opacity:1;"
-         offset="1"
+         style="stop-color:#9b82b0;stop-opacity:1;"
+         offset="0.99834436"
          id="stop5" /></linearGradient><linearGradient
        xlink:href="#linearGradient5"
        id="linearGradient1"
+       x1="25"
+       y1="7.0902283e-06"
+       x2="25"
+       y2="50.000031"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.98039216,0,0,0.98039216,0.49019623,0.49019623)" /><linearGradient
+       id="linearGradient5-8"><stop
+         style="stop-color:#381054;stop-opacity:1;"
+         offset="0.00462963"
+         id="stop1-82" /><stop
+         style="stop-color:#9f8daf;stop-opacity:1;"
+         offset="1"
+         id="stop5-4" /></linearGradient><linearGradient
+       xlink:href="#linearGradient5-8"
+       id="linearGradient1-3"
        x1="25"
        y1="7.0902283e-06"
        x2="25"
@@ -257,4 +272,9 @@
      id="style1">
 	.st0{fill:url(#ICON_00000088831890668800157600000002638584723837204667_);}
 </style><style
-     id="style1-7">.st10{fill:#333}</style></svg>
+     id="style1-7">.st10{fill:#333}</style><style
+     type="text/css"
+     id="style1-1">
+	.st0{fill:url(#ICON_00000088831890668800157600000002638584723837204667_);}
+</style><style
+     id="style1-7-2">.st10{fill:#333}</style></svg>
