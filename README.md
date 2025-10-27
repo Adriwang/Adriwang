@@ -12,11 +12,9 @@
 
 My main focus right now is **Ash**, a game engine I’m building completely from the ground up.
 
-I split my time between **Software Engineering**, **Graphic Design**, and **Audio Engineering** — basically shaping the whole experience myself.
+I split my time between **Software Engineering**, **Graphic Design**, and **Audio Engineering**.
 
-I’m also into **skeuomorphic design**, integrating subtle elements of realism into my work. I like giving interfaces and assets a sense of depth and tactility instead of the flat minimalism that’s everywhere today.  
-
-This profile is where I drop the results of that process — projects, experiments, the things I think are worth showing off.
+I am also focused on a complete/integrated graphical Operating System, called **AshOS**.
 
 **I choose not to develop for macOS or other Apple platforms due to their reliance on proprietary APIs, closed ecosystem control, and restrictive App Store policies.**
 
