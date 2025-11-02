@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    sodipodi:docname="Blender_Box.svg"
    viewBox="0 0 500.00009 499.99985"
    height="499.99985"
@@ -85,8 +85,11 @@
        offset="0"
        id="stop5-5" /><stop
        style="stop-color:#0754fa;stop-opacity:1;"
+       offset="0.23950979"
+       id="stop6-3" /><stop
+       style="stop-color:#ffffff;stop-opacity:1;"
        offset="1"
-       id="stop6-3" /></linearGradient><linearGradient
+       id="stop4" /></linearGradient><linearGradient
      id="linearGradient2"
      inkscape:collect="always"><stop
        style="stop-color:#032df8;stop-opacity:1;"
@@ -113,7 +116,7 @@
      x1="751.12421"
      y1="696.32336"
      x2="751.12421"
-     y2="401.10632"
+     y2="81.63739"
      gradientUnits="userSpaceOnUse"
      gradientTransform="matrix(1,0,0,1.0150295,0,-8.2702338)" /><linearGradient
      inkscape:collect="always"
@@ -143,16 +146,16 @@
        inkscape:collect="always"
        stdDeviation="19.2442"
        id="feGaussianBlur10" /></filter></defs><sodipodi:namedview
-   inkscape:current-layer="g3"
+   inkscape:current-layer="layer1"
    inkscape:window-maximized="1"
-   inkscape:window-y="0"
-   inkscape:window-x="0"
-   inkscape:cy="375.22597"
-   inkscape:cx="-1006.2878"
-   inkscape:zoom="0.20520967"
+   inkscape:window-y="-8"
+   inkscape:window-x="-8"
+   inkscape:cy="291.59889"
+   inkscape:cx="231.72851"
+   inkscape:zoom="1.1608412"
    showgrid="false"
    id="namedview12"
-   inkscape:window-height="1412"
+   inkscape:window-height="1369"
    inkscape:window-width="2560"
    inkscape:pageshadow="2"
    inkscape:pageopacity="0"
@@ -3176,7 +3179,7 @@ znE76fwC
          rx="147.60854"
          cy="548.69159"
          cx="751.12421" /><rect
-         style="display:inline;fill:none;stroke:#0600b4;stroke-width:5.87162;stroke-dasharray:none;stroke-opacity:1"
+         style="display:inline;fill:none;stroke:#0400e5;stroke-width:5.87162;stroke-dasharray:none;stroke-opacity:1"
          id="rect6"
          width="305.24493"
          height="325.04398"
