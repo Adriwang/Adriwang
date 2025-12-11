@@ -10,11 +10,9 @@
 
 <div align="left">
 
-My main focus right now is **Ash**, a game engine I’m building completely from the ground up.
+My main focus right now is **AshOS**, a complete/integrated graphical Operating System.
 
 I split my time between **Software Engineering**, **Graphic Design**, and **Audio Engineering**.
-
-I am also focused on a complete/integrated graphical Operating System, called **AshOS**.
 
 **I choose not to develop for macOS or other Apple platforms due to their reliance on proprietary APIs, closed ecosystem control, and restrictive App Store policies.**
 
