@@ -47,8 +47,8 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/TypeScript_Box.svg" height="45" alt="TypeScript logo"  /></a>
   <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Solid_Box.svg" height="45" alt="Solid logo"  /></a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Svelte_Box.svg" height="45" alt="Svelte logo"  /></a>
-  <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/elixir_Box.svg" height="45" alt="elixir logo"  /></a>
   <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/solidity_Box.svg" height="45" alt="solidity logo"  /></a>
+  <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/elixir_Box.svg" height="45" alt="elixir logo"  /></a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/boxes/CSharp_Box.svg" height="45" alt="C Sharp logo"  /></a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Java_Box.svg" height="45" alt="Java logo" /></a>
   <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Groovy_Box.svg" height="45" alt="Groovy logo"  /></a>
