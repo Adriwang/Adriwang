@@ -43,7 +43,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://odin-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Odin_Box.svg" height="45" alt="Odin logo"  /></a>
   <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Go_Box.svg" height="45" alt="Go logo"  /></a>
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Dart_Box.svg" height="45" alt="Dart Logo"  /></a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Flutter_Box.svg" height="45" alt="Flutter Logo"  /></a>
+  <a href="https://nativescript.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/NativeScript_Box.svg" height="45" alt="NativeScript logo"  /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/TypeScript_Box.svg" height="45" alt="TypeScript logo"  /></a>
   <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Solid_Box.svg" height="45" alt="Solid logo"  /></a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Svelte_Box.svg" height="45" alt="Svelte logo"  /></a>
@@ -100,6 +100,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <!--div>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Sass_Box.svg" height="45" alt="Sass logo"  /></a>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="Icons/Qt.svg" height="45" alt="Qt logo"  /></a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Flutter_Box.svg" height="45" alt="Flutter Logo"  /></a>
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Godot_Box.svg" height="45" alt="Godot logo"  /></a>
   <a href="https://www.raylib.com/" target="_blank" rel="noreferrer"><img src="Icons/Raylib.svg" height="45" alt="Raylib logo"  /></a>
   <a href="https://www.cairographics.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Cairo_Box.svg" height="45" alt="Cairo logo"  /></a>
