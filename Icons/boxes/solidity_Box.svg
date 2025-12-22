@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="4.4489685"
-     inkscape:cx="71.477242"
-     inkscape:cy="90.69518"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-100.40916"
+     inkscape:cy="23.334524"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
@@ -41,15 +41,22 @@
        margin="0"
        bleed="0" /></sodipodi:namedview><defs
      id="defs1"><linearGradient
-       id="linearGradient2"
-       inkscape:collect="always"><stop
+       id="linearGradient2"><stop
          style="stop-color:#a5a5a5;stop-opacity:1;"
          offset="0"
+         id="stop4" /><stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="1"
+         id="stop6" /></linearGradient><linearGradient
+       id="linearGradient2-1"><stop
+         style="stop-color:#cbcbcb;stop-opacity:0.34782609;"
+         offset="0"
          id="stop2" /><stop
-         style="stop-color:#747474;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:0.7543478;"
          offset="1"
          id="stop3" /></linearGradient><linearGradient
-       id="linearGradient5"><stop
+       id="linearGradient5"
+       inkscape:collect="always"><stop
          style="stop-color:#cbcbcb;stop-opacity:1;"
          offset="0.00462963"
          id="stop1" /><stop
@@ -81,7 +88,16 @@
        fy="0.37367609"
        r="24.509804"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.995122,0,0,1.995122,-0.49021345,-0.37185329)" /></defs><g
+       gradientTransform="matrix(1.995122,0,0,1.995122,-0.49021345,-0.37185329)" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2-1"
+       id="linearGradient8"
+       x1="25.263817"
+       y1="32.039581"
+       x2="49.111618"
+       y2="45.808117"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0006181,0,0,1,-0.03060397,0)" /></defs><g
      id="layer1"><rect
        style="font-variation-settings:normal;display:inline;fill:url(#radialGradient3);stroke:none;stroke-width:0.980392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;fill-opacity:1"
        id="rect1-18"
@@ -97,36 +113,39 @@
        inkscape:label="Icon"><g
          class="st0"
          id="g2"
-         style="opacity:0.45">
+         style="opacity:0.45"
+         transform="translate(-23.577587,-7.1331439)">
 		<g
    id="g1-7">
 			<polygon
    class="st1"
-   points="206.4,173.1 263.3,71.9 377.2,71.9 320.3,173.1 "
+   points="320.3,173.1 206.4,173.1 263.3,71.9 377.2,71.9 "
    id="polygon1"
    style="fill:#010101" />
 		</g>
 	</g><g
          class="st2"
          id="g4"
-         style="opacity:0.6">
+         style="opacity:0.6"
+         transform="translate(-23.577587,-7.1331439)">
 		<g
    id="g3">
 			<polygon
    class="st1"
-   points="377.2,71.9 263.3,71.9 320.3,173.1 434.1,173.1 "
+   points="434.1,173.1 377.2,71.9 263.3,71.9 320.3,173.1 "
    id="polygon2"
    style="fill:#010101" />
 		</g>
 	</g><g
          class="st3"
          id="g6"
-         style="opacity:0.8">
+         style="opacity:0.8"
+         transform="translate(-23.577587,-7.1331439)">
 		<g
    id="g5">
 			<polygon
    class="st1"
-   points="263.3,71.9 206.4,173.1 263.3,274.3 320.3,173.1 "
+   points="320.3,173.1 263.3,71.9 206.4,173.1 263.3,274.3 "
    id="polygon4"
    style="fill:#010101" />
 		</g>
@@ -175,7 +194,11 @@
        y="0.99963778"
        rx="6.9104829"
        ry="6.9104829"
-       inkscape:label="Shadow" /><rect
+       inkscape:label="Shadow" /><path
+       id="rect2"
+       style="font-variation-settings:normal;display:inline;opacity:0.5;fill:url(#linearGradient8);fill-opacity:1;stroke:none;stroke-width:0.980695;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       inkscape:label="Reflection"
+       d="M 43.091596,0.39997559 15.473635,49.390784 h 26.974709 c 3.912088,0 7.061295,-3.147263 7.061295,-7.056934 V 7.4284871 c 0,-3.6928503 -2.809742,-6.70569677 -6.418043,-7.02851151 z" /><rect
        style="font-variation-settings:normal;display:inline;fill:none;stroke:#1a1a1a;stroke-width:1.99928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect1-18-1"
        width="48.000725"
