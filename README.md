@@ -23,8 +23,8 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
 <hr>
 <div align="center">
 
-  ![Top Langs](https://github-readme-stats-chi-jade-92.vercel.app/api/top-langs/?username=Adriwang&count_private=true&layout=compact&theme=transparent&border_color=11119017&langs_count=6&card_width=400)
-  ![Anurag's GitHub stats](https://github-readme-stats-chi-jade-92.vercel.app/api?username=Adriwang&count_private=true&show_icons=true&theme=transparent&line_height=25&border_color=11119017&hide_title=true&rank_icon=github&card_width=300)
+  ![Top Langs](https://github-readme-stats-chi-jade-92.vercel.app/api/top-langs/?username=Adriwang&count_private=true&layout=compact&theme=transparent&hide_border=true&langs_count=6&card_width=400)
+  ![Anurag's GitHub stats](https://github-readme-stats-chi-jade-92.vercel.app/api?username=Adriwang&count_private=true&show_icons=true&theme=transparent&line_height=25&hide_border=true&hide_title=true&rank_icon=github&card_width=300)
 
 </div>
 
