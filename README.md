@@ -48,6 +48,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/TypeScript_Box.svg" height="45" alt="TypeScript logo"  /></a>
   <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Solid_Box.svg" height="45" alt="Solid logo"  /></a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Svelte_Box.svg" height="45" alt="Svelte logo"  /></a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Sass_Box.svg" height="45" alt="Sass logo"  /></a>
   <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/solidity_Box.svg" height="45" alt="solidity logo"  /></a>
   <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/elixir_Box.svg" height="45" alt="elixir logo"  /></a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/boxes/CSharp_Box.svg" height="45" alt="C Sharp logo"  /></a>
@@ -61,8 +62,13 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://www.ruby-lang.org" target="_blank" rel="noreferrer"><img src="Icons/boxes/Ruby_Box.svg" height="45" alt="Ruby logo"  /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Python_Box.svg" height="45" alt="Python logo"  /></a>
   <a href="https://julialang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Julia_Box.svg" height="45" alt="Julia logo" /></a>
-  <a href="https://wails.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Wails_Box.svg" height="45" alt="Wails logo"  /></a>
   <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Tauri_Box.svg" height="45" alt="Tauri logo"  /></a>
+  <a href="https://wails.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Wails_Box.svg" height="45" alt="Wails logo"  /></a>
+  <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/GTK_Box.svg" height="45" alt="GTK logo"  /></a>
+  <a href="https://avaloniaui.net/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Avalonia_Box.svg" height="45" alt="Avalonia logo"  /></a>
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Qt_Box.svg" height="45" alt="Qt logo"  /></a>
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Godot_Box.svg" height="45" alt="Godot logo"  /></a>
+  <a href="https://www.stride3d.net/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Stride_Box.svg" height="45" alt="Stride logo"  /></a>
   <a href="https://www.vulkan.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Vulkan_Box.svg" height="45" alt="Vulkan logo"  /></a>
   <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/OpenGL_Box.svg" height="45" alt="OpenGL logo"  /></a>
   <a href="https://shader-slang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Slang_Box.svg" height="45" alt="Slang logo"  /></a>
@@ -98,11 +104,6 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   
 <hr>
   <!--div>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Sass_Box.svg" height="45" alt="Sass logo"  /></a>
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="Icons/Qt.svg" height="45" alt="Qt logo"  /></a>
-  <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/GTK_Box.svg" height="45" alt="GTK logo"  /></a>
-  <a href="https://avaloniaui.net/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Avalonia_Box.svg" height="45" alt="Avalonia logo"  /></a>
-  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Godot_Box.svg" height="45" alt="Godot logo"  /></a>
   <a href="https://www.raylib.com/" target="_blank" rel="noreferrer"><img src="Icons/Raylib.svg" height="45" alt="Raylib logo"  /></a>
   <a href="https://www.cairographics.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Cairo_Box.svg" height="45" alt="Cairo logo"  /></a>
   </div--> 
