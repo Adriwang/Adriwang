@@ -65,8 +65,9 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Tauri_Box.svg" height="45" alt="Tauri logo"  /></a>
   <a href="https://wails.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Wails_Box.svg" height="45" alt="Wails logo"  /></a>
   <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/GTK_Box.svg" height="45" alt="GTK logo"  /></a>
-  <a href="https://avaloniaui.net/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Avalonia_Box.svg" height="45" alt="Avalonia logo"  /></a>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Qt_Box.svg" height="45" alt="Qt logo"  /></a>
+  <a href="https://avaloniaui.net/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Avalonia_Box.svg" height="45" alt="Avalonia logo"  /></a>
+  <a href="https://www.jetbrains.com/compose-multiplatform/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Compose_Box.svg" height="45" alt="Compose Multiplatform logo"  /></a>
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Godot_Box.svg" height="45" alt="Godot logo"  /></a>
   <a href="https://www.stride3d.net/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Stride_Box.svg" height="45" alt="Stride logo"  /></a>
   <a href="https://www.vulkan.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Vulkan_Box.svg" height="45" alt="Vulkan logo"  /></a>
