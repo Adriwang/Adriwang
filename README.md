@@ -69,8 +69,8 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://avaloniaui.net/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Avalonia_Box.svg" height="45" alt="Avalonia logo"  /></a>
   <a href="https://openjdk.org/projects/openjfx/" target="_blank" rel="noreferrer"><img src="Icons/boxes/JavaFX_Box.svg" height="45" alt="JavaFX logo"  /></a>
   <a href="https://www.jetbrains.com/compose-multiplatform/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Compose_Box.svg" height="45" alt="Compose Multiplatform logo"  /></a>
-  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><picture><source srcset="Icons/boxes/Godot_Box.png" type="image/png"><img src="Icons/boxes/Godot_Box.svg" height="45" alt="Godot logo" /></picture></a>
-  <a href="https://www.stride3d.net/" target="_blank" rel="noreferrer"><picture><source srcset="Icons/boxes/Stride_Box.png" type="image/png"><img src="Icons/boxes/Stride_Box.svg" height="45" alt="Stride logo" /></picture></a>
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><picture><source srcset="Icons/boxes/Godot_Box.svg" height="45"><img src="Icons/boxes/Godot_Box.png" type="image/png" height="45" alt="Godot logo" /></picture></a>
+  <a href="https://www.stride3d.net/" target="_blank" rel="noreferrer"><picture><source srcset="Icons/boxes/Stride_Box.svg" height="45"><img src="Icons/boxes/Stride_Box.png" type="image/png" height="45" alt="Stride logo" /></picture></a>
   <a href="https://www.vulkan.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Vulkan_Box.svg" height="45" alt="Vulkan logo"  /></a>
   <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/OpenGL_Box.svg" height="45" alt="OpenGL logo"  /></a>
   <a href="https://shader-slang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Slang_Box.svg" height="45" alt="Slang logo"  /></a>
