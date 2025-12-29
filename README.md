@@ -91,12 +91,12 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
     <a href="https://gradle.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Gradle_Box.svg" height="45" alt="Gradle logo"  /></a>
     <a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Android_Box.svg" height="45" alt="Android logo"  /></a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Linux_Box.svg" height="45" alt="Linux logo"  /></a>
+    <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Fedora_Box.svg" height="45" alt="Fedora logo"  /></a>
     <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Arch_Box.svg" height="45" alt="Arch logo"  /></a>
     <a href="https://www.freebsd.org/" target="_blank" rel="noreferrer"><picture><source srcset="Icons/boxes/FreeBSD_Box.png" type="image/png"><img src="Icons/boxes/FreeBSD_Box.svg" height="45" alt="FreeBSD logo" /></picture></a>
     <!--FreeBSD Vector Image Does Not Load Properly on Most Browsers, Set as Fallback-->
     <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"><img src="Icons/boxes/Windows_Box.svg" height="45" alt="Windows logo"  /></a>
     <a href="https://inkscape.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Inkscape_Box.svg" height="45" alt="Inkscape logo"  /></a>
-    <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/GIMP_Box.svg" height="45" alt="GIMP logo"  /></a>
     <a href="https://krita.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Krita_Box.svg" height="45" alt="Krita logo"  /></a>
     <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"><img src="Icons/DaVinci_Resolve.png" height="45" alt="DaVinci Resolve logo"  /></a>
     <a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noreferrer"><img src="Icons/boxes/FL_Studio_Box.png" height="45" alt="FL Studio logo"  /></a>
@@ -107,6 +107,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   
 <hr>
   <!--div>
+  <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/GIMP_Box.svg" height="45" alt="GIMP logo"  /></a>
   <a href="https://www.raylib.com/" target="_blank" rel="noreferrer"><img src="Icons/Raylib.svg" height="45" alt="Raylib logo"  /></a>
   <a href="https://www.cairographics.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Cairo_Box.svg" height="45" alt="Cairo logo"  /></a>
   </div--> 
