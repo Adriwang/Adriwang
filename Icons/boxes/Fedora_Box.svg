@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="Arch_Box.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="Fedora_Box.svg"
    viewBox="0 0 500.49978 500.49979"
    height="500.49979"
    width="500.49979"
@@ -26,10 +26,10 @@
        id="linearGradient7"><stop
          id="stop10"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:0.25054947;" /><stop
+         style="stop-color:#ffffff;stop-opacity:0.50329673;" /><stop
          id="stop11"
          offset="1"
-         style="stop-color:#ffffff;stop-opacity:0.1978022;" /></linearGradient><linearGradient
+         style="stop-color:#ffffff;stop-opacity:0.50329673;" /></linearGradient><linearGradient
        id="linearGradient8"
        inkscape:collect="always"><stop
          style="stop-color:#ffffff;stop-opacity:0.35164836;"
@@ -41,10 +41,10 @@
        id="linearGradient7-1"><stop
          id="stop6"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:0.34725276;" /><stop
+         style="stop-color:#ffffff;stop-opacity:0.50109893;" /><stop
          id="stop7"
          offset="1"
-         style="stop-color:#ffffff;stop-opacity:0.1978022;" /></linearGradient><linearGradient
+         style="stop-color:#ffffff;stop-opacity:0.34725276;" /></linearGradient><linearGradient
        id="linearGradient14"
        inkscape:collect="always"><stop
          style="stop-color:#a7baba;stop-opacity:1;"
@@ -91,14 +91,6 @@
        y2="45.007084"
        gradientUnits="userSpaceOnUse" /><linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient7"
-       id="linearGradient6"
-       x1="14.631906"
-       y1="58.948093"
-       x2="179.65089"
-       y2="18.904263"
-       gradientUnits="userSpaceOnUse" /><linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient8"
        id="linearGradient9"
        x1="177.95"
@@ -116,14 +108,14 @@
        y2="58.286839" /></defs><sodipodi:namedview
      inkscape:current-layer="g18"
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
-     inkscape:window-x="0"
-     inkscape:cy="269.63206"
-     inkscape:cx="246.37307"
-     inkscape:zoom="2.3216824"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="558.21589"
+     inkscape:cx="-4575.9919"
+     inkscape:zoom="0.072552575"
      showgrid="false"
      id="namedview12"
-     inkscape:window-height="1412"
+     inkscape:window-height="1369"
      inkscape:window-width="2560"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -182,7 +174,7 @@
          id="path4"
          sodipodi:nodetypes="sscsssccsscsssscssscssscssscsscccsssscccssscsssssssssccsscssssssssssccsscsssccsssssssssssssssscccccccccccccccccccccccccccc"
          inkscape:label="Text"
-         style="display:inline;fill:url(#linearGradient6);fill-opacity:1" /><path
+         style="display:inline;fill:#f6f8f7;fill-opacity:0.4990584" /><path
          d="m 91.249997,17.9 c -1.6,0 -2.9,1.2 -2.9,2.9 v 15.4 c -1.5,-2.7 -4.7,-4.6 -8.6,-4.6 -7.8,0 -13,5.9 -13,13.7 0,7.9 5.4,13.8 13,13.8 3.4,0 6.4,-1.4 8.1,-3.9 l 0.7,1.7 c 0.4,1.1 1.5,1.9 2.8,1.9 1.6,0 2.9,-1.3 2.9,-2.9 v 0 -35.1 c 0,-1.7 -1.3,-2.9 -3,-2.9 z m -59.8,0 c -6.1,0 -11,5 -11,11 v 3.5 h -3.6 c -1.3,0 -2.4,1.1 -2.4,2.4 0,1.3 1.1,2.6 2.4,2.6 h 3.6 v 18.5 c 0,1.6 1.3,2.9 2.9,2.9 1.7,0 3,-1.3 3,-2.9 V 37.4 h 3.9 c 1.4,0 2.5,-1.3 2.5,-2.6 0,-1.3 -1.1,-2.4 -2.5,-2.4 h -3.9 v -3.5 c 0,-2.8 2.3,-5.5 5.1,-5.5 0.3,0 0.5,0 0.8,0.1 1.6,0.2 3.1,-0.5 3.3,-2.1 0.3,-1.6 -0.9,-3.1 -2.5,-3.3 -0.5,-0.1 -1.1,-0.2 -1.6,-0.2 z m 17.3,13.7 c -7.7,0 -13.6,6.1 -13.6,13.7 0,7.7 6.1,13.8 13.7,13.8 4.2,0 8.5,-1.8 11,-4.5 0.5,-0.6 0.8,-1.3 0.9,-1.9 0,-0.5 -0.2,-1 -0.5,-1.4 -0.5,-0.6 -1.2,-1 -2,-1 -0.5,0 -1,0.1 -1.4,0.5 -2.1,2.1 -4.7,3.4 -7.8,3.4 -4.3,0 -7.5,-3.1 -7.8,-7.1 h 18.5 c 1.1,0 2.2,-0.7 2.2,-1.9 0,-7.7 -5.7,-13.6 -13.2,-13.6 z m 64.000003,0 c -7.7,0 -13.800003,6.1 -13.800003,13.7 0,7.7 6.100003,13.8 13.800003,13.8 7.6,0 13.7,-6.1 13.7,-13.8 0,-7.6 -6.1,-13.7 -13.7,-13.7 z m 33.5,0 c -4,0 -6.7,1.2 -9,4.2 l -0.3,-1.4 c -0.2,-1.5 -1.4,-2.6 -2.9,-2.6 -1.6,0 -2.9,1.3 -2.9,3 v 0 21.1 c 0,1.6 1.3,2.9 2.9,2.9 1.6,0 3,-1.3 3,-2.9 V 44.6 c 0,-5.2 4.4,-7.8 9.2,-7.8 1.4,0 2.6,-1.2 2.6,-2.6 0,-1.5 -1.2,-2.6 -2.6,-2.6 z m 17.3,0 c -7.7,0 -13.8,6.1 -13.8,13.7 0,7.7 6,13.8 13.2,13.8 3.7,0 6.9,-1.9 8.3,-3.8 l 0.8,1.8 c 0.3,1 1.3,1.7 2.5,1.7 1.5,0 2.7,-1.2 2.7,-2.7 v -7 -3.8 c 0,-7.3 -5.2,-13.7 -13.7,-13.7 z M 48.749997,36.5 c 3.9,0 6.8,2.8 7.3,6.5 h -14.7 c 0.6,-3.8 3.3,-6.5 7.4,-6.5 z m 31.8,0.3 c 4.8,0 7.8,3.7 7.8,8.5 0,4.9 -3,8.5 -7.8,8.5 -4.8,0 -7.9,-3.8 -7.9,-8.5 0,-4.6 3.1,-8.5 7.9,-8.5 z m 32.200003,0 c 4.7,0 7.9,3.9 7.9,8.5 0,4.7 -3.2,8.5 -7.9,8.5 -4.8,0 -8,-3.8 -8,-8.5 0,-4.6 3.2,-8.5 8,-8.5 z m 50.8,0 c 4.8,0 7.9,3.9 7.9,8.5 0,4.7 -3.1,8.5 -7.9,8.5 -4.8,0 -7.9,-3.8 -7.9,-8.5 0,-4.6 3.1,-8.5 7.9,-8.5 z m 14.5,18.3 v 0.2 h 0.3 v 0.9 h 0.2 v -0.9 h 0.3 v -0.2 z m 0.9,0 v 1.1 h 0.2 v -0.6 -0.1 l 0.1,0.1 0.2,0.6 0.3,-0.6 v -0.1 0.1 0.6 h 0.2 v -1.1 h -0.2 l -0.2,0.5 -0.1,0.2 v -0.2 l -0.3,-0.5 z"
          fill="#0a57a4"
          id="path9"
@@ -195,7 +187,7 @@
            d="M 194.4,16.4 C 194.4,7.4 187,0 177.9,0 168.8,0 161.5,7.4 161.5,16.4 v 0 12.8 0 c 0,2 1.6,3.7 3.7,3.7 v 0 0 h 12.7 c 9.1,0 16.5,-7.4 16.5,-16.5"
            fill="#072b61"
            id="path1"
-           style="display:inline;fill:#50c2f7;fill-opacity:0.348399" /><path
+           style="display:inline;fill:#50c2f7;fill-opacity:0.50282484" /><path
            d="m 182.8,3.9 c -4.3,0 -7.8,3.5 -7.8,7.7 v 4.1 h -4.1 c -4.2,0 -7.7,3.4 -7.7,7.7 0,4.3 3.5,7.7 7.7,7.7 4.3,0 7.8,-3.4 7.8,-7.7 v -4.1 h 4.1 c 4.2,0 7.7,-3.4 7.7,-7.7 0,-4.2 -3.5,-7.7 -7.7,-7.7 z m 0,3.6 c 2.2,0 4,1.9 4,4.1 0,2.3 -1.8,4.1 -4,4.1 h -0.1 -3.4 c -0.4,0 -0.6,-0.3 -0.6,-0.6 v -3.5 c 0,-2.2 1.8,-4.1 4.1,-4.1 z m -11.9,11.8 h 3.5 c 0.4,0 0.6,0.3 0.6,0.6 v 3.5 c 0,2.3 -1.8,4.1 -4.1,4.1 -2.2,0 -4.1,-1.8 -4.1,-4.1 0,-2.2 1.9,-4.1 4.1,-4.1 z m 18.9,9.7 v 0.2 h 0.3 v 0.9 h 0.2 v -0.9 h 0.3 V 29 Z m 0.9,0 v 1.1 h 0.2 v -0.6 -0.1 0.1 l 0.3,0.6 0.3,-0.6 v -0.2 0.2 0.6 h 0.2 V 29 h -0.2 l -0.2,0.5 -0.1,0.2 V 29.5 L 190.9,29 Z"
            fill="#0a57a4"
            id="path2"
