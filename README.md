@@ -6,7 +6,7 @@
 
 # 🌲 Adrian Chajter
 
-**`Digital Craftsman (Software Developer, Graphic Designer)`**
+**`Systems Engineer (Software Developer, Graphic Designer)`**
 
 <div align="left">
 
