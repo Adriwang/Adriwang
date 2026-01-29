@@ -50,7 +50,9 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Svelte_Box.svg" height="45" alt="Svelte logo"  /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Sass_Box.svg" height="45" alt="Sass logo"  /></a>
   <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/solidity_Box.svg" height="45" alt="solidity logo"  /></a>
-  <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/elixir_Box.svg" height="45" alt="elixir logo"  /></a>
+  <a href="https://mesonbuild.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Meson_Box.svg" height="45" alt="Meson logo" /></a>
+  <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/elixir_Box.svg" height="45" alt="elixir logo" /></a>
+  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Haskell_Box.svg" height="45" alt="Haskell logo" /></a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/boxes/CSharp_Box.svg" height="45" alt="C Sharp logo"  /></a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Java_Box.svg" height="45" alt="Java logo" /></a>
   <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Groovy_Box.svg" height="45" alt="Groovy logo"  /></a>
