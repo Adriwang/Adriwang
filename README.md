@@ -64,6 +64,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://crystal-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Crystal_Box.svg" height="45" alt="Crystal logo"  /></a>
   <a href="https://www.ruby-lang.org" target="_blank" rel="noreferrer"><img src="Icons/boxes/Ruby_Box.svg" height="45" alt="Ruby logo"  /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Python_Box.svg" height="45" alt="Python logo"  /></a>
+  <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Fortran_Box.svg" height="45" alt="Fortran logo"  /></a>
   <a href="https://julialang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Julia_Box.svg" height="45" alt="Julia logo" /></a>
   <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Tauri_Box.svg" height="45" alt="Tauri logo"  /></a>
   <a href="https://wails.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Wails_Box.svg" height="45" alt="Wails logo"  /></a>
