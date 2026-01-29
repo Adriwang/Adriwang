@@ -10,7 +10,7 @@
 
 <div align="left">
 
-My main focus right now is **AshOS**, a complete/integrated graphical Operating System.
+My main focus right now is Compilers and Tooling for **AshOS**, a complete/integrated graphical Operating System.
 
 I split my time between **Software Engineering**, **Graphic Design**, and **Audio Engineering**.
 
