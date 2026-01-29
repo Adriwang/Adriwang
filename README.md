@@ -14,7 +14,7 @@ My main focus right now is Compilers and Tooling for **AshOS**, a complete/integ
 
 I split my time between **Software Engineering**, **Graphic Design**, and **Audio Engineering**.
 
-**I choose not to develop for macOS or other Apple platforms due to their reliance on proprietary APIs, closed ecosystem control, and restrictive App Store policies.**
+**I choose not to develop for macOS or other Apple platforms due to their closed ecosystem control, restrictive App Store policies, and SDKs not being accesible on other platforms.**
 
 </div>
 
