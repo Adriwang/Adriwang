@@ -81,6 +81,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/OpenGL_Box.svg" height="45" alt="OpenGL logo"  /></a>
   <a href="https://www.vulkan.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Vulkan_Box.svg" height="45" alt="Vulkan logo"  /></a>
   <a href="https://shader-slang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Slang_Box.svg" height="45" alt="Slang logo"  /></a>
+  <a href="https://docs.dgraph.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Dgraph_Box.svg" height="45" alt="Dgraph logo"  /></a>
   <a href="https://surrealdb.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SurrealDB_Box.svg" height="45" alt="SurrealDB logo"  /></a>
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Cassandra_Box.svg" height="45" alt="Cassandra logo"  /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/PostgreSQL_Box.svg" height="45" alt="PostgreSQL logo"  /></a>
