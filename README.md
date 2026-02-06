@@ -73,6 +73,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Qt_Box.svg" height="45" alt="Qt logo"  /></a>
   <a href="https://avaloniaui.net/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Avalonia_Box.svg" height="45" alt="Avalonia logo"  /></a>
   <a href="https://learn.microsoft.com/en-us/windows/apps/winui/winui3/" target="_blank" rel="noreferrer"><picture><source srcset="Icons/boxes/WinUI_Box.png" height="45"><img src="Icons/boxes/WinUI_Box.svg" height="45" alt="WinUI logo"  /></picture></a>
+  <!--WinUI Vector Image Masks Do Not Load on Most Browsers, Set as Fallback-->
   <a href="https://openjdk.org/projects/openjfx/" target="_blank" rel="noreferrer"><img src="Icons/boxes/JavaFX_Box.svg" height="45" alt="JavaFX logo"  /></a>
   <a href="https://www.jetbrains.com/compose-multiplatform/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Compose_Box.svg" height="45" alt="Compose Multiplatform logo"  /></a>
   <a href="https://www.stride3d.net/" target="_blank" rel="noreferrer"><picture><source srcset="Icons/boxes/Stride_Box.svg" height="45"><img src="Icons/boxes/Stride_Box.png" type="image/png" height="45" alt="Stride logo" /></picture></a>
@@ -97,9 +98,9 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Bash_Box.svg" height="45" alt="Bash logo"  /></a>
     <a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Makefile_Box.svg" height="45" alt="Makefile logo"  /></a>
     <a href="https://gradle.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Gradle_Box.svg" height="45" alt="Gradle logo"  /></a>
+    <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Docker_Box.svg" height="45" alt="Docker logo"  /></a>
     <a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Android_Box.svg" height="45" alt="Android logo"  /></a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Linux_Box.svg" height="45" alt="Linux logo"  /></a>
-    <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Fedora_Box.svg" height="45" alt="Fedora logo"  /></a>
     <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Arch_Box.svg" height="45" alt="Arch logo"  /></a>
     <a href="https://www.freebsd.org/" target="_blank" rel="noreferrer"><picture><source srcset="Icons/boxes/FreeBSD_Box.png" type="image/png"><img src="Icons/boxes/FreeBSD_Box.svg" height="45" alt="FreeBSD logo" /></picture></a>
     <!--FreeBSD Vector Image Does Not Load Properly on Most Browsers, Set as Fallback-->
@@ -114,11 +115,6 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   </div>
   
 <hr>
-  <!--div>
-  <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/GIMP_Box.svg" height="45" alt="GIMP logo"  /></a>
-  <a href="https://www.raylib.com/" target="_blank" rel="noreferrer"><img src="Icons/Raylib.svg" height="45" alt="Raylib logo"  /></a>
-  <a href="https://www.cairographics.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Cairo_Box.svg" height="45" alt="Cairo logo"  /></a>
-  </div--> 
 </div>
 
 <div align="center">
