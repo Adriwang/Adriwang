@@ -49,7 +49,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Solid_Box.svg" height="45" alt="Solid logo"  /></a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Svelte_Box.svg" height="45" alt="Svelte logo"  /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Sass_Box.svg" height="45" alt="Sass logo"  /></a>
-  <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/solidity_Box.svg" height="45" alt="solidity logo"  /></a>
+  <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Solidity_Box.svg" height="45" alt="Solidity logo"  /></a>
   <a href="https://mesonbuild.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Meson_Box.svg" height="45" alt="Meson logo" /></a>
   <a href="https://ocaml.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/OCaml_Box.svg" height="45" alt="OCaml logo" /></a>
   <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/elixir_Box.svg" height="45" alt="elixir logo" /></a>
@@ -82,8 +82,9 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/OpenGL_Box.svg" height="45" alt="OpenGL logo"  /></a>
   <a href="https://www.vulkan.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Vulkan_Box.svg" height="45" alt="Vulkan logo"  /></a>
   <a href="https://shader-slang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Slang_Box.svg" height="45" alt="Slang logo"  /></a>
-  <a href="https://docs.dgraph.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Dgraph_Box.svg" height="45" alt="Dgraph logo"  /></a>
   <a href="https://surrealdb.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SurrealDB_Box.svg" height="45" alt="SurrealDB logo"  /></a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/redis_Box.svg" height="45" alt="redis logo"  /></a>
+  <a href="https://docs.dgraph.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Dgraph_Box.svg" height="45" alt="Dgraph logo"  /></a>
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Cassandra_Box.svg" height="45" alt="Cassandra logo"  /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/PostgreSQL_Box.svg" height="45" alt="PostgreSQL logo"  /></a>
   <a href="https://sqlite.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SQLite_Box.svg" height="45" alt="SQLite logo"  /></a>
