@@ -86,6 +86,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/redis_Box.svg" height="45" alt="redis logo"  /></a>
   <a href="https://docs.dgraph.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Dgraph_Box.svg" height="45" alt="Dgraph logo"  /></a>
   <a href="https://protobuf.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Protobuf_Box.svg" height="45" alt="Protobuf logo"  /></a>
+  <a href="https://flatbuffers.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/FlatBuffers_Box.svg" height="45" alt="FlatBuffers logo"  /></a>
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Cassandra_Box.svg" height="45" alt="Cassandra logo"  /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/PostgreSQL_Box.svg" height="45" alt="PostgreSQL logo"  /></a>
   <a href="https://sqlite.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SQLite_Box.svg" height="45" alt="SQLite logo"  /></a>
