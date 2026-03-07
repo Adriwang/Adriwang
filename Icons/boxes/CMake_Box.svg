@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50mm"
+   height="50mm"
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><linearGradient
+       id="linearGradient5"><stop
+         style="stop-color:#f32735;stop-opacity:1;"
+         offset="0.00307924"
+         id="stop1" /><stop
+         style="stop-color:#0068c7;stop-opacity:1;"
+         offset="0.4955357"
+         id="stop9" /><stop
+         style="stop-color:#3eae2b;stop-opacity:1;"
+         offset="0.99840766"
+         id="stop5" /></linearGradient><linearGradient
+       xlink:href="#linearGradient5"
+       id="linearGradient1"
+       x1="37.500008"
+       y1="3.3493736"
+       x2="12.499996"
+       y2="46.650661"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.98039216,0,0,0.98039216,0.49019623,0.49019623)" /><filter
+       style="color-interpolation-filters:sRGB"
+       id="filter1"
+       x="-0.06882552"
+       y="-0.06882552"
+       width="1.137651"
+       height="1.137651"><feGaussianBlur
+         stdDeviation="0.9600145"
+         id="feGaussianBlur1" /></filter><style
+       id="style1-9">
+      .cls-1 {
+        fill: #3eae2b;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #0068c7;
+      }
+
+      .cls-3 {
+        fill: #f32735;
+      }
+
+      .cls-4 {
+        fill: #dce3ec;
+      }
+    </style><filter
+       style="color-interpolation-filters:sRGB"
+       id="filter9"
+       x="-0.048014882"
+       y="-0.047985126"
+       width="1.0960298"
+       height="1.0959703"><feGaussianBlur
+         stdDeviation="10.914069"
+         id="feGaussianBlur9" /></filter><linearGradient
+       xlink:href="#linearGradient5"
+       id="linearGradient11"
+       x1="37.500004"
+       y1="3.3493571"
+       x2="12.5"
+       y2="46.650631"
+       gradientUnits="userSpaceOnUse" /></defs><g
+     id="layer1"><rect
+       style="font-variation-settings:normal;display:inline;fill:url(#linearGradient1);stroke:none;stroke-width:0.980392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect1-18"
+       width="49.019608"
+       height="49.019608"
+       x="0.49019623"
+       y="0.49019623"
+       rx="7.0571675"
+       ry="7.0571675" /><rect
+       style="font-variation-settings:normal;display:inline;fill:none;stroke:#000000;stroke-width:1.99928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;filter:url(#filter1)"
+       id="rect1"
+       width="48.000725"
+       height="48.000725"
+       x="0.99963778"
+       y="0.99963778"
+       rx="6.9104829"
+       ry="6.9104829" /><path
+       id="polygon5"
+       class="cls-3"
+       d="M 262.72003 -0.00086457512 L -0.001720006 522.35102 L 287.75368 277.81249 L 262.72003 -0.00086457512 z M 281.77718 8.9169028 L 320.87816 443.11539 L 545.5326 533.65563 L 281.77718 8.9169028 z M 290.92047 299.24708 L 185.73968 388.49054 L 303.03323 435.65416 L 290.92047 299.24708 z M 169.86812 402.84918 L 1.4736114 545.87175 L 524.84977 545.87175 L 169.86812 402.84918 z "
+       style="stroke:none;stroke-opacity:1;fill:#000000;fill-opacity:1;filter:url(#filter9)"
+       transform="matrix(0.05499239,0,0,0.05499239,10.000001,9.9906521)" /><g
+       id="g1"
+       transform="matrix(0.05499239,0,0,0.05499239,10.000001,9.9906521)"><g
+         id="red_right"
+         data-name="red right"><polygon
+           class="cls-3"
+           points="545.53,533.66 281.78,8.92 320.88,443.12 "
+           id="polygon1" /></g><g
+         id="green_bottom"
+         data-name="green bottom"><polygon
+           class="cls-1"
+           points="524.85,545.87 169.87,402.85 1.47,545.87 "
+           id="polygon2" /></g><g
+         id="blue_left"
+         data-name="blue left"><polygon
+           class="cls-2"
+           points="262.72,0 0,522.35 287.75,277.81 "
+           id="polygon3" /></g><g
+         id="gray_center"
+         data-name="gray center"><polygon
+           class="cls-4"
+           points="290.92,299.25 185.74,388.49 303.03,435.65 "
+           id="polygon4" /></g></g><rect
+       style="font-variation-settings:normal;display:inline;fill:none;stroke:url(#linearGradient11);stroke-width:1.99928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect1-18-1"
+       width="48.000725"
+       height="48.000725"
+       x="0.99963778"
+       y="0.99963778"
+       rx="6.9104829"
+       ry="6.9104829" /></g><style
+     type="text/css"
+     id="style1">
+	.st0{fill:url(#ICON_00000088831890668800157600000002638584723837204667_);}
+</style><style
+     id="style1-7">.st10{fill:#333}</style><style
+     type="text/css"
+     id="style1-1">
+	.st0{fill:url(#ICON_00000088831890668800157600000002638584723837204667_);}
+</style><style
+     id="style1-7-2">.st10{fill:#333}</style></svg>
