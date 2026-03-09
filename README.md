@@ -37,10 +37,10 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <div>
   <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"><img src="Icons/boxes/C_Box.svg" height="45" alt="C logo" /></a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/CPP_Box.svg" height="45" alt="C++ logo" /></a>
-  <a href="https://dlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/D_Box.svg" height="45" alt="D logo" /></a>
-  <a href="https://ziglang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Zig_Box.svg" height="45" alt="Zig logo"  /></a>
+  <!--a href="https://dlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/D_Box.svg" height="45" alt="D logo" /></a>
+  <a href="https://ziglang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Zig_Box.svg" height="45" alt="Zig logo"  /></a-->
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Rust_Box.svg" height="45" alt="Rust Logo"  /></a>
-  <a href="https://odin-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Odin_Box.svg" height="45" alt="Odin logo"  /></a>
+  <!--a href="https://odin-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Odin_Box.svg" height="45" alt="Odin logo"  /></a-->
   <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Go_Box.svg" height="45" alt="Go logo"  /></a>
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Dart_Box.svg" height="45" alt="Dart Logo"  /></a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Flutter_Box.svg" height="45" alt="Flutter Logo"  /></a>
@@ -50,7 +50,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Svelte_Box.svg" height="45" alt="Svelte logo"  /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Sass_Box.svg" height="45" alt="Sass logo"  /></a>
   <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Solidity_Box.svg" height="45" alt="Solidity logo"  /></a>
-  <a href="https://cmake.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/CMake_Box.svg" height="45" alt="CMake logo" /></a>
+  <!--a href="https://cmake.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/CMake_Box.svg" height="45" alt="CMake logo" /></a-->
   <a href="https://mesonbuild.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Meson_Box.svg" height="45" alt="Meson logo" /></a>
   <a href="https://ocaml.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/OCaml_Box.svg" height="45" alt="OCaml logo" /></a>
   <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/elixir_Box.svg" height="45" alt="elixir logo" /></a>
