@@ -70,6 +70,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://avaloniaui.net/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Avalonia_Box.svg" height="45" alt="Avalonia logo"  /></a>
   <a href="https://learn.microsoft.com/en-us/windows/apps/winui/winui3/" target="_blank" rel="noreferrer"><picture><source srcset="Icons/boxes/WinUI_Box.png" height="45"><img src="Icons/boxes/WinUI_Box.svg" height="45" alt="WinUI logo"  /></picture></a>
   <!--WinUI Vector Image Masks Do Not Load on Most Browsers, Set as Fallback-->
+  <a href="https://iced.rs/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Iced_Box.svg" height="45" alt="iced.rs logo"  /></a>
   <a href="https://openjdk.org/projects/openjfx/" target="_blank" rel="noreferrer"><img src="Icons/boxes/JavaFX_Box.svg" height="45" alt="JavaFX logo"  /></a>
   <a href="https://www.jetbrains.com/compose-multiplatform/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Compose_Box.svg" height="45" alt="Compose Multiplatform logo"  /></a>
   <a href="https://www.stride3d.net/" target="_blank" rel="noreferrer"><picture><source srcset="Icons/boxes/Stride_Box.svg" height="45"><img src="Icons/boxes/Stride_Box.png" type="image/png" height="45" alt="Stride logo" /></picture></a>
@@ -83,7 +84,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://docs.dgraph.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Dgraph_Box.svg" height="45" alt="Dgraph logo"  /></a>
   <a href="https://protobuf.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Protobuf_Box.svg" height="45" alt="Protobuf logo"  /></a>
   <a href="https://flatbuffers.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/FlatBuffers_Box.svg" height="45" alt="FlatBuffers logo"  /></a>
-  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Cassandra_Box.svg" height="45" alt="Cassandra logo"  /></a>
+  <!--a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Cassandra_Box.svg" height="45" alt="Cassandra logo"  /></a-->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/PostgreSQL_Box.svg" height="45" alt="PostgreSQL logo"  /></a>
   <a href="https://sqlite.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SQLite_Box.svg" height="45" alt="SQLite logo"  /></a>
   </div>
