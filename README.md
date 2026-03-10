@@ -39,7 +39,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Rust_Box.svg" height="45" alt="Rust Logo"  /></a>
   <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Go_Box.svg" height="45" alt="Go logo"  /></a>
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Dart_Box.svg" height="45" alt="Dart Logo"  /></a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Flutter_Box.svg" height="45" alt="Flutter Logo"  /></a>
+  <!--a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Flutter_Box.svg" height="45" alt="Flutter Logo"  /></a-->
   <a href="https://nativescript.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/NativeScript_Box.svg" height="45" alt="NativeScript logo"  /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/TypeScript_Box.svg" height="45" alt="TypeScript logo"  /></a>
   <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Solid_Box.svg" height="45" alt="Solid logo"  /></a>
@@ -65,6 +65,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://julialang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Julia_Box.svg" height="45" alt="Julia logo" /></a>
   <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Tauri_Box.svg" height="45" alt="Tauri logo"  /></a>
   <a href="https://wails.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Wails_Box.svg" height="45" alt="Wails logo"  /></a>
+  <a href="https://vala.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Vala_Box.svg" height="45" alt="Vala logo"  /></a>
   <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/GTK_Box.svg" height="45" alt="GTK logo"  /></a>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Qt_Box.svg" height="45" alt="Qt logo"  /></a>
   <a href="https://avaloniaui.net/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Avalonia_Box.svg" height="45" alt="Avalonia logo"  /></a>
