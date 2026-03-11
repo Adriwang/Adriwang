@@ -39,11 +39,10 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Rust_Box.svg" height="45" alt="Rust Logo"  /></a>
   <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Go_Box.svg" height="45" alt="Go logo"  /></a>
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Dart_Box.svg" height="45" alt="Dart Logo"  /></a>
-  <!--a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Flutter_Box.svg" height="45" alt="Flutter Logo"  /></a-->
   <a href="https://nativescript.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/NativeScript_Box.svg" height="45" alt="NativeScript logo"  /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/TypeScript_Box.svg" height="45" alt="TypeScript logo"  /></a>
-  <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Solid_Box.svg" height="45" alt="Solid logo"  /></a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Svelte_Box.svg" height="45" alt="Svelte logo"  /></a>
+  <a href="https://elm-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Elm_Box.svg" height="45" alt="Elm logo"  /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Sass_Box.svg" height="45" alt="Sass logo"  /></a>
   <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Solidity_Box.svg" height="45" alt="Solidity logo"  /></a>
   <a href="https://mesonbuild.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Meson_Box.svg" height="45" alt="Meson logo" /></a>
@@ -65,6 +64,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://julialang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Julia_Box.svg" height="45" alt="Julia logo" /></a>
   <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Tauri_Box.svg" height="45" alt="Tauri logo"  /></a>
   <a href="https://wails.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Wails_Box.svg" height="45" alt="Wails logo"  /></a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Flutter_Box.svg" height="45" alt="Flutter Logo"  /></a>
   <a href="https://vala.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Vala_Box.svg" height="45" alt="Vala logo"  /></a>
   <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/GTK_Box.svg" height="45" alt="GTK logo"  /></a>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Qt_Box.svg" height="45" alt="Qt logo"  /></a>
@@ -129,9 +129,3 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
 </div>
 
 </div>
-
-  <!--Useless Tools Corner-->
-  <!--a href="https://dlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/D_Box.svg" height="45" alt="D logo" /></a-->
-  <!--a href="https://ziglang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Zig_Box.svg" height="45" alt="Zig logo"  /></a-->
-  <!--a href="https://odin-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Odin_Box.svg" height="45" alt="Odin logo"  /></a-->
-  <!--a href="https://cmake.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/CMake_Box.svg" height="45" alt="CMake logo" /></a-->
