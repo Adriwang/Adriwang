@@ -74,7 +74,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://iced.rs/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Iced_Box.svg" height="45" alt="iced.rs logo"  /></a>
   <a href="https://openjdk.org/projects/openjfx/" target="_blank" rel="noreferrer"><img src="Icons/boxes/JavaFX_Box.svg" height="45" alt="JavaFX logo"  /></a>
   <a href="https://www.jetbrains.com/compose-multiplatform/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Compose_Box.svg" height="45" alt="Compose Multiplatform logo"  /></a>
-  <a href="https://www.stride3d.net/" target="_blank" rel="noreferrer"><picture><source srcset="Icons/boxes/Stride_Box.svg" height="45"><img src="Icons/boxes/Stride_Box.png" type="image/png" height="45" alt="Stride logo" /></picture></a>
+  <a href="https://www.unrealengine.com" target="_blank" rel="noreferrer"><img src="Icons/boxes/Unreal_Box.svg" height="45" alt="Unreal Engine logo"  /></a>
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><picture><source srcset="Icons/boxes/Godot_Box.svg" height="45"><img src="Icons/boxes/Godot_Box.png" type="image/png" height="45" alt="Godot logo" /></picture></a>
   <a href="https://www.libsdl.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SDL_Box.svg" height="45" alt="SDL logo"  /></a>
   <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/OpenGL_Box.svg" height="45" alt="OpenGL logo"  /></a>
