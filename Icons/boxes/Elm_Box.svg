@@ -28,8 +28,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="3.0876875"
-     inkscape:cx="116.75404"
-     inkscape:cy="143.31113"
+     inkscape:cx="35.7873"
+     inkscape:cy="124.20298"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
@@ -78,6 +78,14 @@
        fx="25"
        fy="25"
        r="25"
+       gradientUnits="userSpaceOnUse" /><radialGradient
+       xlink:href="#linearGradient1"
+       id="radialGradient5-1"
+       cx="25"
+       cy="25"
+       fx="25"
+       fy="25"
+       r="25"
        gradientUnits="userSpaceOnUse" /></defs><style
      type="text/css"
      id="style1">
@@ -85,14 +93,11 @@
 	.st1{fill:#FFFFFF;}
 </style><g
      id="g1"
-     inkscape:label="Elm"><rect
-       style="font-variation-settings:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.260698;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+     inkscape:label="Elm"><path
        id="rect1-18"
-       width="50"
-       height="50"
-       x="0"
-       y="-4.4408921e-16"
-       inkscape:label="Background" /><g
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.260698;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       inkscape:label="Background"
+       d="M 7.198527 0 C 3.2106628 6.2665922e-16 0 3.2106628 0 7.198527 L 0 42.801522 C 6.2657103e-16 46.788825 3.2093758 49.999145 7.19646 50.000049 L 42.803589 50.000049 C 46.790112 49.999146 49.999146 46.790112 50.000049 42.803589 L 50.000049 42.801522 L 50.000049 7.198527 L 50.000049 7.19646 C 49.999145 3.2093758 46.788825 0 42.801522 0 L 7.198527 0 z " /><g
        id="g42"
        transform="scale(0.15465608)"
        inkscape:label="Logo"
@@ -140,6 +145,11 @@
 </g></g><style
      type="text/css"
      id="style1-8">
+	.st0{fill:#FF3E00;}
+	.st1{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-1">
 	.st0{fill:#FF3E00;}
 	.st1{fill:#FFFFFF;}
 </style></svg>
