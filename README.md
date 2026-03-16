@@ -44,7 +44,6 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://elm-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Elm_Box.svg" height="45" alt="Elm logo"  /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Sass_Box.svg" height="45" alt="Sass logo"  /></a>
   <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Solidity_Box.svg" height="45" alt="Solidity logo"  /></a>
-  <a href="https://mesonbuild.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Meson_Box.svg" height="45" alt="Meson logo" /></a>
   <a href="https://ocaml.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/OCaml_Box.svg" height="45" alt="OCaml logo" /></a>
   <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/elixir_Box.svg" height="45" alt="elixir logo" /></a>
   <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Haskell_Box.svg" height="45" alt="Haskell logo" /></a>
@@ -73,11 +72,12 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://iced.rs/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Iced_Box.svg" height="45" alt="iced.rs logo"  /></a>
   <a href="https://openjdk.org/projects/openjfx/" target="_blank" rel="noreferrer"><img src="Icons/boxes/JavaFX_Box.svg" height="45" alt="JavaFX logo"  /></a>
   <a href="https://www.jetbrains.com/compose-multiplatform/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Compose_Box.svg" height="45" alt="Compose Multiplatform logo"  /></a>
-  <a href="https://www.unrealengine.com" target="_blank" rel="noreferrer"><img src="Icons/boxes/Unreal_Box.svg" height="45" alt="Unreal Engine logo"  /></a>
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><picture><source srcset="Icons/boxes/Godot_Box.svg" height="45"><img src="Icons/boxes/Godot_Box.png" type="image/png" height="45" alt="Godot logo" /></picture></a>
-  <a href="https://www.libsdl.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SDL_Box.svg" height="45" alt="SDL logo"  /></a>
-  <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/OpenGL_Box.svg" height="45" alt="OpenGL logo"  /></a>
+  <a href="https://www.unrealengine.com" target="_blank" rel="noreferrer"><img src="Icons/boxes/Unreal_Box.svg" height="45" alt="Unreal Engine logo"  /></a>
+  <a href="https://learn.microsoft.com/windows/win32/directx" target="_blank" rel="noreferrer"><img src="Icons/boxes/DirectX_Box.svg" height="45" alt="DirectX logo"  /></a>
   <a href="https://www.vulkan.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Vulkan_Box.svg" height="45" alt="Vulkan logo"  /></a>
+  <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/OpenGL_Box.svg" height="45" alt="OpenGL logo"  /></a>
+  <a href="https://www.libsdl.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SDL_Box.svg" height="45" alt="SDL logo"  /></a>
   <a href="https://shader-slang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Slang_Box.svg" height="45" alt="Slang logo"  /></a>
   <a href="https://surrealdb.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SurrealDB_Box.svg" height="45" alt="SurrealDB logo"  /></a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Redis_Box.svg" height="45" alt="redis logo"  /></a>
@@ -97,6 +97,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
     <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Bun_Box.svg" height="45" alt="Bun logo"  /></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Bash_Box.svg" height="45" alt="Bash logo"  /></a>
     <a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Makefile_Box.svg" height="45" alt="Makefile logo"  /></a>
+    <a href="https://mesonbuild.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Meson_Box.svg" height="45" alt="Meson logo" /></a>
     <a href="https://gradle.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Gradle_Box.svg" height="45" alt="Gradle logo"  /></a>
     <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Docker_Box.svg" height="45" alt="Docker logo"  /></a>
     <a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Android_Box.svg" height="45" alt="Android logo"  /></a>
@@ -106,7 +107,6 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
     <!--FreeBSD Vector Image Does Not Load Properly on Most Browsers, Set as Fallback-->
     <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"><img src="Icons/boxes/Windows_Box.svg" height="45" alt="Windows logo"  /></a>
     <a href="https://inkscape.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Inkscape_Box.svg" height="45" alt="Inkscape logo"  /></a>
-    <a href="https://krita.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Krita_Box.svg" height="45" alt="Krita logo"  /></a>
     <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"><img src="Icons/DaVinci_Resolve.png" height="45" alt="DaVinci Resolve logo"  /></a>
     <a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noreferrer"><img src="Icons/boxes/FL_Studio_Box.png" height="45" alt="FL Studio logo"  /></a>
     <a href="https://www.steinberg.net/nuendo/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Nuendo_Box.svg" height="45" alt="Nuendo logo"  /></a>
