@@ -77,12 +77,12 @@
      x2="85.628487"
      y2="74.707207">
 			<stop
-   offset="0.00162602"
-   style="stop-color:#a08ee5;stop-opacity:1;"
+   offset="0"
+   style="stop-color:#9c8fe4;stop-opacity:1;"
    id="stop19" />
 			<stop
    offset="1"
-   style="stop-color:#c57ae1;stop-opacity:1;"
+   style="stop-color:#a787ff;stop-opacity:1;"
    id="stop20" />
 		</linearGradient><linearGradient
      id="linearGradient9"
@@ -104,7 +104,7 @@
      inkscape:collect="always"><stop
        id="stop853"
        offset="0"
-       style="stop-color:#ffffff;stop-opacity:0.85407728;" /><stop
+       style="stop-color:#ffffff;stop-opacity:0.84549356;" /><stop
        id="stop855"
        offset="1"
        style="stop-color:#ffffff;stop-opacity:0;" /></linearGradient><linearGradient
@@ -146,10 +146,10 @@
      inkscape:collect="always"
      xlink:href="#linearGradient17"
      id="linearGradient19"
-     x1="38.344666"
-     y1="28.277306"
-     x2="57.3624"
-     y2="28.277306"
+     x1="38.446281"
+     y1="37.684555"
+     x2="57.260784"
+     y2="18.870056"
      gradientUnits="userSpaceOnUse" /><linearGradient
      id="linearGradient20-8"
      gradientUnits="userSpaceOnUse"
@@ -212,13 +212,13 @@
      y1="19.220032"
      x2="56.910797"
      y2="37.33456" /></defs><sodipodi:namedview
-   inkscape:current-layer="svg10"
+   inkscape:current-layer="layer1-0"
    inkscape:window-maximized="1"
    inkscape:window-y="-8"
    inkscape:window-x="-8"
-   inkscape:cy="144.66911"
-   inkscape:cx="-127.00425"
-   inkscape:zoom="1.6416774"
+   inkscape:cy="60.989449"
+   inkscape:cx="35.101293"
+   inkscape:zoom="6.5667096"
    showgrid="false"
    id="namedview12"
    inkscape:window-height="1369"
