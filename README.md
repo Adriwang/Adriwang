@@ -34,25 +34,25 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   ### 🛠 Languages and Tools:
 
   <div>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Rust_Box.svg" height="45" alt="Rust Logo"  /></a>
   <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"><img src="Icons/boxes/C_Box.svg" height="45" alt="C logo" /></a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/CPP_Box.svg" height="45" alt="C++ logo" /></a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Rust_Box.svg" height="45" alt="Rust Logo"  /></a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Go_Box.svg" height="45" alt="Go logo"  /></a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Dart_Box.svg" height="45" alt="Dart Logo"  /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/TypeScript_Box.svg" height="45" alt="TypeScript logo"  /></a>
-  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Svelte_Box.svg" height="45" alt="Svelte logo"  /></a>
-  <a href="https://elm-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Elm_Box.svg" height="45" alt="Elm logo"  /></a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Sass_Box.svg" height="45" alt="Sass logo"  /></a>
-  <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Solidity_Box.svg" height="45" alt="Solidity logo"  /></a>
-  <a href="https://ocaml.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/OCaml_Box.svg" height="45" alt="OCaml logo" /></a>
-  <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/elixir_Box.svg" height="45" alt="elixir logo" /></a>
-  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Haskell_Box.svg" height="45" alt="Haskell logo" /></a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/boxes/CSharp_Box.svg" height="45" alt="C Sharp logo"  /></a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Java_Box.svg" height="45" alt="Java logo" /></a>
   <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Groovy_Box.svg" height="45" alt="Groovy logo"  /></a>
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Scala_Box.svg" height="45" alt="Scala logo"  /></a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Kotlin_Box.svg" height="45" alt="Kotlin logo"  /></a>
   <a href="https://www.swift.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Swift_Box.svg" height="45" alt="Swift logo"  /></a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Dart_Box.svg" height="45" alt="Dart Logo"  /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/TypeScript_Box.svg" height="45" alt="TypeScript logo"  /></a>
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Svelte_Box.svg" height="45" alt="Svelte logo"  /></a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Go_Box.svg" height="45" alt="Go logo"  /></a>
+  <a href="https://elm-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Elm_Box.svg" height="45" alt="Elm logo"  /></a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Sass_Box.svg" height="45" alt="Sass logo"  /></a>
+  <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Solidity_Box.svg" height="45" alt="Solidity logo"  /></a>
+  <a href="https://ocaml.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/OCaml_Box.svg" height="45" alt="OCaml logo" /></a>
+  <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/elixir_Box.svg" height="45" alt="elixir logo" /></a>
+  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Haskell_Box.svg" height="45" alt="Haskell logo" /></a>
   <a href="https://haxe.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Haxe_Box.svg" height="45" alt="Haxe logo"  /></a>
   <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Nim_Box.svg" height="45" alt="Nim logo"  /></a>
   <a href="https://crystal-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Crystal_Box.svg" height="45" alt="Crystal logo"  /></a>
