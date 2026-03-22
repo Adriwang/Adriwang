@@ -254,7 +254,7 @@
          d="m 9.123697,6.754988 c -0.047,-1.095 2.042,-1.23 2.292,-0.315 0.25,0.915 -2.186,1.128 -2.289,0.316 z"
          style="fill-rule:evenodd"
          id="path35" /></g><rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient11);stroke-width:0.75;stroke-dasharray:none"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient11);stroke-width:1;stroke-dasharray:none"
        id="rect11"
        width="45.037273"
        height="45.037273"
