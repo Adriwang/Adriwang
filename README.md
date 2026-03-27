@@ -44,7 +44,13 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Scala_Box.svg" height="45" alt="Scala logo"  /></a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Kotlin_Box.svg" height="45" alt="Kotlin logo"  /></a>
   <a href="https://www.swift.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Swift_Box.svg" height="45" alt="Swift logo"  /></a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Dart_Box.svg" height="45" alt="Dart Logo"  /></a>
+  <a href="https://haxe.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Haxe_Box.svg" height="45" alt="Haxe logo"  /></a>
+  <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Nim_Box.svg" height="45" alt="Nim logo"  /></a>
+  <a href="https://crystal-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Crystal_Box.svg" height="45" alt="Crystal logo"  /></a>
+  <a href="https://www.ruby-lang.org" target="_blank" rel="noreferrer"><img src="Icons/boxes/Ruby_Box.svg" height="45" alt="Ruby logo"  /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Python_Box.svg" height="45" alt="Python logo"  /></a>
+  <a href="https://julialang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Julia_Box.svg" height="45" alt="Julia logo" /></a>
+  <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Fortran_Box.svg" height="45" alt="Fortran logo"  /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/TypeScript_Box.svg" height="45" alt="TypeScript logo"  /></a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Svelte_Box.svg" height="45" alt="Svelte logo"  /></a>
   <a href="https://elm-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Elm_Box.svg" height="45" alt="Elm logo"  /></a>
@@ -53,25 +59,19 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://ocaml.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/OCaml_Box.svg" height="45" alt="OCaml logo" /></a>
   <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/elixir_Box.svg" height="45" alt="elixir logo" /></a>
   <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Haskell_Box.svg" height="45" alt="Haskell logo" /></a>
-  <a href="https://haxe.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Haxe_Box.svg" height="45" alt="Haxe logo"  /></a>
-  <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Nim_Box.svg" height="45" alt="Nim logo"  /></a>
-  <a href="https://crystal-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Crystal_Box.svg" height="45" alt="Crystal logo"  /></a>
-  <a href="https://www.ruby-lang.org" target="_blank" rel="noreferrer"><img src="Icons/boxes/Ruby_Box.svg" height="45" alt="Ruby logo"  /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Python_Box.svg" height="45" alt="Python logo"  /></a>
-  <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Fortran_Box.svg" height="45" alt="Fortran logo"  /></a>
-  <a href="https://julialang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Julia_Box.svg" height="45" alt="Julia logo" /></a>
-  <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Tauri_Box.svg" height="45" alt="Tauri logo"  /></a>
-  <a href="https://wails.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Wails_Box.svg" height="45" alt="Wails logo"  /></a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Dart_Box.svg" height="45" alt="Dart Logo"  /></a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Flutter_Box.svg" height="45" alt="Flutter Logo"  /></a>
   <a href="https://vala.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Vala_Box.svg" height="45" alt="Vala logo"  /></a>
   <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/GTK_Box.svg" height="45" alt="GTK logo"  /></a>
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Qt_Box.svg" height="45" alt="Qt logo"  /></a>
-  <a href="https://avaloniaui.net/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Avalonia_Box.svg" height="45" alt="Avalonia logo"  /></a>
+  <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Tauri_Box.svg" height="45" alt="Tauri logo"  /></a>
+  <a href="https://wails.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Wails_Box.svg" height="45" alt="Wails logo"  /></a>
+  <a href="https://iced.rs/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Iced_Box.svg" height="45" alt="iced.rs logo"  /></a>
   <a href="https://learn.microsoft.com/en-us/windows/apps/winui/winui3/" target="_blank" rel="noreferrer"><picture><source srcset="Icons/boxes/WinUI_Box.png" height="45"><img src="Icons/boxes/WinUI_Box.svg" height="45" alt="WinUI logo"  /></picture></a>
   <!--WinUI Vector Image Masks Do Not Load on Most Browsers, Set as Fallback-->
-  <a href="https://iced.rs/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Iced_Box.svg" height="45" alt="iced.rs logo"  /></a>
-  <a href="https://openjdk.org/projects/openjfx/" target="_blank" rel="noreferrer"><img src="Icons/boxes/JavaFX_Box.svg" height="45" alt="JavaFX logo"  /></a>
+  <a href="https://avaloniaui.net/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Avalonia_Box.svg" height="45" alt="Avalonia logo"  /></a>
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Qt_Box.svg" height="45" alt="Qt logo"  /></a>
   <a href="https://www.jetbrains.com/compose-multiplatform/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Compose_Box.svg" height="45" alt="Compose Multiplatform logo"  /></a>
+  <a href="https://openjdk.org/projects/openjfx/" target="_blank" rel="noreferrer"><img src="Icons/boxes/JavaFX_Box.svg" height="45" alt="JavaFX logo"  /></a>
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><picture><source srcset="Icons/boxes/Godot_Box.svg" height="45"><img src="Icons/boxes/Godot_Box.png" type="image/png" height="45" alt="Godot logo" /></picture></a>
   <a href="https://www.unrealengine.com" target="_blank" rel="noreferrer"><img src="Icons/boxes/Unreal_Box.svg" height="45" alt="Unreal Engine logo"  /></a>
   <a href="https://learn.microsoft.com/windows/win32/directx" target="_blank" rel="noreferrer"><img src="Icons/boxes/DirectX_Box.svg" height="45" alt="DirectX logo"  /></a>
@@ -82,8 +82,8 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://surrealdb.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SurrealDB_Box.svg" height="45" alt="SurrealDB logo"  /></a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Redis_Box.svg" height="45" alt="redis logo"  /></a>
   <a href="https://docs.dgraph.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Dgraph_Box.svg" height="45" alt="Dgraph logo"  /></a>
-  <a href="https://protobuf.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Protobuf_Box.svg" height="45" alt="Protobuf logo"  /></a>
   <a href="https://flatbuffers.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/FlatBuffers_Box.svg" height="45" alt="FlatBuffers logo"  /></a>
+  <a href="https://protobuf.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Protobuf_Box.svg" height="45" alt="Protobuf logo"  /></a>
   <!--a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Cassandra_Box.svg" height="45" alt="Cassandra logo"  /></a-->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/PostgreSQL_Box.svg" height="45" alt="PostgreSQL logo"  /></a>
   <a href="https://sqlite.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SQLite_Box.svg" height="45" alt="SQLite logo"  /></a>
