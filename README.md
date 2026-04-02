@@ -107,11 +107,11 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
     <a href="https://www.freebsd.org/" target="_blank" rel="noreferrer"><picture><source srcset="Icons/boxes/FreeBSD_Box.png" type="image/png"><img src="Icons/boxes/FreeBSD_Box.svg" height="45" alt="FreeBSD logo" /></picture></a>
     <!--FreeBSD Vector Image Does Not Load Properly on Most Browsers, Set as Fallback-->
     <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"><img src="Icons/boxes/Windows_Box.svg" height="45" alt="Windows logo"  /></a>
+    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Blender_Box.svg" height="45" alt="Blender logo"  /></a>
     <a href="https://inkscape.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Inkscape_Box.svg" height="45" alt="Inkscape logo"  /></a>
     <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"><img src="Icons/DaVinci_Resolve.png" height="45" alt="DaVinci Resolve logo"  /></a>
     <a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noreferrer"><img src="Icons/boxes/FL_Studio_Box.png" height="45" alt="FL Studio logo"  /></a>
     <a href="https://www.steinberg.net/nuendo/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Nuendo_Box.svg" height="45" alt="Nuendo logo"  /></a>
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Blender_Box.svg" height="45" alt="Blender logo"  /></a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Vscode_Box.svg" height="45" alt="VS Code logo"  /></a>
   </div>
   
