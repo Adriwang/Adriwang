@@ -54,8 +54,8 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/TypeScript_Box.svg" height="45" alt="TypeScript logo"  /></a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Svelte_Box.svg" height="45" alt="Svelte logo"  /></a>
   <a href="https://elm-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Elm_Box.svg" height="45" alt="Elm logo"  /></a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Sass_Box.svg" height="45" alt="Sass logo"  /></a>
-  <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Solidity_Box.svg" height="45" alt="Solidity logo"  /></a>
+  <a href="https://vyperlang.org/" target="_blank" rel="noreferrer"><picture><source srcset="Icons/boxes/Vyper_Box.png" height="45"><img src="Icons/boxes/Vyper_Box.svg" height="45" alt="Vyper logo" /></picture></a>
+  <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer"><picture><source srcset="Icons/boxes/Solidity_Box.png" height="45"><img src="Icons/boxes/Solidity_Box.svg" height="45" alt="Solidity logo" /></picture></a>
   <a href="https://ocaml.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/OCaml_Box.svg" height="45" alt="OCaml logo" /></a>
   <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/elixir_Box.svg" height="45" alt="elixir logo" /></a>
   <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Haskell_Box.svg" height="45" alt="Haskell logo" /></a>
