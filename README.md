@@ -95,8 +95,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   
   <div>
     <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Bun_Box.svg" height="45" alt="Bun logo"  /></a>
-    <!-- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Bash_Box.svg" height="45" alt="Bash logo"  /></a> -->
-    <a href="https://www.nushell.sh/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Nushell_Box.svg" height="45" alt="Nushell logo"  /></a>
+    <a href="https://www.adobe.com/products/substance3d.html" target="_blank" rel="noreferrer"><img src="Icons/boxes/Substance_Box.svg" height="45" alt="Substance 3D logo"  /></a>
     <a href="https://mesonbuild.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Meson_Box.svg" height="45" alt="Meson logo" /></a>
     <a href="https://gradle.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Gradle_Box.svg" height="45" alt="Gradle logo"  /></a>
     <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Docker_Box.svg" height="45" alt="Docker logo"  /></a>
