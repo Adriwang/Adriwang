@@ -32,11 +32,11 @@
      y2="74.707207">
 			<stop
    offset="0"
-   style="stop-color:#9b754b;stop-opacity:1;"
+   style="stop-color:#f6d1b6;stop-opacity:1;"
    id="stop1" />
 			<stop
    offset="1"
-   style="stop-color:#d9c9b3;stop-opacity:1;"
+   style="stop-color:#c8b89e;stop-opacity:1;"
    id="stop20" />
 		</linearGradient><linearGradient
      id="linearGradient857"
@@ -264,14 +264,24 @@
      x1="749.24005"
      y1="64.401382"
      x2="749.24005"
-     y2="554.47852" /></defs><sodipodi:namedview
+     y2="554.47852" /><filter
+     inkscape:collect="always"
+     style="color-interpolation-filters:sRGB"
+     id="filter24"
+     x="-0.044653714"
+     y="-0.051888446"
+     width="1.0893074"
+     height="1.1037769"><feGaussianBlur
+       inkscape:collect="always"
+       stdDeviation="1.3024"
+       id="feGaussianBlur24" /></filter></defs><sodipodi:namedview
    inkscape:current-layer="g18-3"
    inkscape:window-maximized="1"
    inkscape:window-y="-8"
    inkscape:window-x="-8"
-   inkscape:cy="206.49612"
-   inkscape:cx="-45.684982"
-   inkscape:zoom="0.82083868"
+   inkscape:cy="95.024762"
+   inkscape:cx="90.151697"
+   inkscape:zoom="0.20520967"
    showgrid="false"
    id="namedview12"
    inkscape:window-height="1369"
@@ -313,10 +323,16 @@
      x="1.6242259"
      y="0.78631645"
      ry="21.072609"
-     inkscape:label="Light" /><g
+     inkscape:label="Light" /><path
+     id="path2"
+     d="m 73.023791,35.722989 c 0,15.21 -15.67,27.54 -35,27.54 -19.33,0 -34.9999995,-12.33 -34.9999995,-27.54 0,-9.43 6,-17.76 15.2199995,-22.7 9.22,-4.9399996 14.96,-9.9999996 19.78,-9.9999996 4.82,0 8.94,4.13 19.78,9.9999996 9.22,4.94 15.22,13.27 15.22,22.7 z"
+     style="fill:#000000;fill-opacity:1;filter:url(#filter24)"
+     transform="matrix(0.83594542,0,0,0.83594542,18.807128,14.031745)"
+     inkscape:label="Shadow" /><g
      id="g1"
      transform="matrix(0.83594543,0,0,0.83594543,19.225101,14.449718)"
-     inkscape:label="Bun"><g
+     inkscape:label="Bun"
+     style="display:inline"><g
        id="Body"
        transform="translate(-0.5,-0.5)"><path
          id="Background"
