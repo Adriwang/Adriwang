@@ -94,7 +94,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   ### 🖥️ Software:
   
   <div>
-    <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Bun_Box.svg" height="45" alt="Bun logo"  /></a>
+    <!-- <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Bun_Box.svg" height="45" alt="Bun logo"  /></a> -->
     <a href="https://mesonbuild.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Meson_Box.svg" height="45" alt="Meson logo" /></a>
     <a href="https://gradle.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Gradle_Box.svg" height="45" alt="Gradle logo"  /></a>
     <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Docker_Box.svg" height="45" alt="Docker logo"  /></a>
@@ -111,6 +111,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
     <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"><img src="Icons/DaVinci_Resolve.png" height="45" alt="DaVinci Resolve logo"  /></a>
     <a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noreferrer"><img src="Icons/boxes/FL_Studio_Box.png" height="45" alt="FL Studio logo"  /></a>
     <a href="https://www.steinberg.net/nuendo/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Nuendo_Box.svg" height="45" alt="Nuendo logo"  /></a>
+    <a href="https://www.audiokinetic.com/wwise/overview/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Wwise_Box.svg" height="45" alt="Wwise logo"  /></a>
     <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Visual_Studio_Box.svg" height="45" alt="Visual Studio logo"  /></a>
   </div>
   
