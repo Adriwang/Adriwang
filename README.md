@@ -38,12 +38,12 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Go_Box.svg" height="45" alt="Go logo"  /></a>
   <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"><img src="Icons/boxes/C_Box.svg" height="45" alt="C logo" /></a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/CPP_Box.svg" height="45" alt="C++ logo" /></a>
+  <a href="https://dlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/D_Box.svg" height="45" alt="Dlang logo" /></a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/boxes/CSharp_Box.svg" height="45" alt="C Sharp logo"  /></a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Java_Box.svg" height="45" alt="Java logo" /></a>
   <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Groovy_Box.svg" height="45" alt="Groovy logo"  /></a>
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Scala_Box.svg" height="45" alt="Scala logo"  /></a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Kotlin_Box.svg" height="45" alt="Kotlin logo"  /></a>
-  <a href="https://www.swift.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Swift_Box.svg" height="45" alt="Swift logo"  /></a>
   <a href="https://haxe.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Haxe_Box.svg" height="45" alt="Haxe logo"  /></a>
   <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Nim_Box.svg" height="45" alt="Nim logo"  /></a>
   <a href="https://crystal-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Crystal_Box.svg" height="45" alt="Crystal logo"  /></a>
