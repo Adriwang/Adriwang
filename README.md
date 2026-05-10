@@ -6,15 +6,15 @@
 
 # 🌲 Adrian Chajter
 
-**`Systems Engineer (Software Developer, Graphic Designer)`**
+**`Software Development (Software Engineering, Graphic Design, Audio Engineering)`**
 
 <div align="left">
 
-My main focus right now is Compilers and Tooling for **AshOS**, a complete/integrated graphical Operating System.
+My main focus right now is **Ash Engine**, a 3D Game Engine/Editor.
 
 I split my time between **Software Engineering**, **Graphic Design**, and **Audio Engineering**.
 
-**I choose not to develop for macOS or other Apple platforms due to their closed ecosystem control, restrictive App Store policies, and SDKs not being accesible on other platforms.**
+**I choose not to develop for macOS or other Apple platforms due to their closed ecosystem, restrictive App Store policies, and SDKs not being accesible on other platforms.**
 
 </div>
 
