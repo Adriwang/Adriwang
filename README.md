@@ -34,7 +34,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   ### 🛠 Languages and Tools:
 
   <div>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Rust_Box.svg" height="45" alt="Rust Logo"  /></a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Rust_Box.png" height="45" alt="Rust Logo"  /></a>
   <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Go_Box.svg" height="45" alt="Go logo"  /></a>
   <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"><img src="Icons/boxes/C_Box.svg" height="45" alt="C logo" /></a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/CPP_Box.svg" height="45" alt="C++ logo" /></a>
