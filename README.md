@@ -35,7 +35,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
 
   <div>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Rust_Box.png" height="45" alt="Rust Logo"  /></a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Go_Box.svg" height="45" alt="Go logo"  /></a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Go_Box.png" height="45" alt="Go logo"  /></a>
   <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"><img src="Icons/boxes/C_Box.svg" height="45" alt="C logo" /></a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/CPP_Box.svg" height="45" alt="C++ logo" /></a>
   <a href="https://dlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/D_Box.svg" height="45" alt="Dlang logo" /></a>
@@ -54,8 +54,8 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/TypeScript_Box.svg" height="45" alt="TypeScript logo"  /></a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Svelte_Box.svg" height="45" alt="Svelte logo"  /></a>
   <a href="https://elm-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Elm_Box.svg" height="45" alt="Elm logo"  /></a>
-  <a href="https://vyperlang.org/" target="_blank" rel="noreferrer"><picture><source srcset="Icons/boxes/Vyper_Box.png" height="45"><img src="Icons/boxes/Vyper_Box.svg" height="45" alt="Vyper logo" /></picture></a>
-  <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer"><picture><source srcset="Icons/boxes/Solidity_Box.png" height="45"><img src="Icons/boxes/Solidity_Box.svg" height="45" alt="Solidity logo" /></picture></a>
+  <a href="https://vyperlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Vyper_Box.png" height="45" alt="Vyper logo" /></a>
+  <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Solidity_Box.png" height="45" alt="Solidity logo" /></a>
   <a href="https://ocaml.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/OCaml_Box.svg" height="45" alt="OCaml logo" /></a>
   <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/elixir_Box.svg" height="45" alt="elixir logo" /></a>
   <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Haskell_Box.svg" height="45" alt="Haskell logo" /></a>
@@ -66,13 +66,13 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Tauri_Box.svg" height="45" alt="Tauri logo"  /></a>
   <a href="https://wails.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Wails_Box.svg" height="45" alt="Wails logo"  /></a>
   <a href="https://iced.rs/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Iced_Box.svg" height="45" alt="iced.rs logo"  /></a>
-  <a href="https://learn.microsoft.com/en-us/windows/apps/winui/winui3/" target="_blank" rel="noreferrer"><picture><source srcset="Icons/boxes/WinUI_Box.png" height="45"><img src="Icons/boxes/WinUI_Box.svg" height="45" alt="WinUI logo"  /></picture></a>
+  <a href="https://learn.microsoft.com/en-us/windows/apps/winui/winui3/" target="_blank" rel="noreferrer"><img src="Icons/boxes/WinUI_Box.png" height="45" alt="WinUI logo"  /></a>
   <!--WinUI Vector Image Masks Do Not Load on Most Browsers, Set as Fallback-->
   <a href="https://avaloniaui.net/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Avalonia_Box.svg" height="45" alt="Avalonia logo"  /></a>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Qt_Box.svg" height="45" alt="Qt logo"  /></a>
   <a href="https://www.jetbrains.com/compose-multiplatform/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Compose_Box.svg" height="45" alt="Compose Multiplatform logo"  /></a>
   <a href="https://openjdk.org/projects/openjfx/" target="_blank" rel="noreferrer"><img src="Icons/boxes/JavaFX_Box.svg" height="45" alt="JavaFX logo"  /></a>
-  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><picture><source srcset="Icons/boxes/Godot_Box.svg" height="45"><img src="Icons/boxes/Godot_Box.png" type="image/png" height="45" alt="Godot logo" /></picture></a>
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Godot_Box.png" type="image/png" height="45" alt="Godot logo" /></a>
   <a href="https://www.unrealengine.com" target="_blank" rel="noreferrer"><img src="Icons/boxes/Unreal_Box.svg" height="45" alt="Unreal Engine logo"  /></a>
   <a href="https://learn.microsoft.com/windows/win32/directx" target="_blank" rel="noreferrer"><img src="Icons/boxes/DirectX_Box.svg" height="45" alt="DirectX logo"  /></a>
   <a href="https://www.vulkan.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Vulkan_Box.svg" height="45" alt="Vulkan logo"  /></a>
@@ -101,7 +101,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
     <a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Android_Box.svg" height="45" alt="Android logo"  /></a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Linux_Box.svg" height="45" alt="Linux logo"  /></a>
     <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Arch_Box.svg" height="45" alt="Arch logo"  /></a>
-    <a href="https://www.freebsd.org/" target="_blank" rel="noreferrer"><picture><source srcset="Icons/boxes/FreeBSD_Box.png" type="image/png"><img src="Icons/boxes/FreeBSD_Box.svg" height="45" alt="FreeBSD logo" /></picture></a>
+    <a href="https://www.freebsd.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/FreeBSD_Box.png" height="45" alt="FreeBSD logo" /></a>
     <!--FreeBSD Vector Image Does Not Load Properly on Most Browsers, Set as Fallback-->
     <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"><img src="Icons/boxes/Windows_Box.svg" height="45" alt="Windows logo"  /></a>
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Blender_Box.svg" height="45" alt="Blender logo"  /></a>
