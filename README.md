@@ -52,7 +52,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://julialang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Julia_Box.svg" height="45" alt="Julia logo" /></a>
   <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Fortran_Box.svg" height="45" alt="Fortran logo"  /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/TypeScript_Box.svg" height="45" alt="TypeScript logo"  /></a>
-  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Svelte_Box.svg" height="45" alt="Svelte logo"  /></a>
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Svelte_Box.png" height="45" alt="Svelte logo"  /></a>
   <a href="https://elm-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Elm_Box.svg" height="45" alt="Elm logo"  /></a>
   <a href="https://vyperlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Vyper_Box.png" height="45" alt="Vyper logo" /></a>
   <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Solidity_Box.png" height="45" alt="Solidity logo" /></a>
