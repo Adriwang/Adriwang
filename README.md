@@ -77,9 +77,9 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://learn.microsoft.com/windows/win32/directx" target="_blank" rel="noreferrer"><img src="Icons/boxes/DirectX_Box.svg" height="45" alt="DirectX logo"  /></a>
   <a href="https://www.vulkan.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Vulkan_Box.svg" height="45" alt="Vulkan logo"  /></a>
   <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/OpenGL_Box.svg" height="45" alt="OpenGL logo"  /></a>
-  <a href="https://www.libsdl.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SDL_Box.svg" height="45" alt="SDL logo"  /></a>
+  <a href="https://www.libsdl.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SDL_Box.png" height="45" alt="SDL logo"  /></a>
   <a href="https://shader-slang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Slang_Box.svg" height="45" alt="Slang logo"  /></a>
-  <a href="https://surrealdb.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SurrealDB_Box.svg" height="45" alt="SurrealDB logo"  /></a>
+  <a href="https://surrealdb.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SurrealDB_Box.png" height="45" alt="SurrealDB logo"  /></a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Redis_Box.svg" height="45" alt="redis logo"  /></a>
   <a href="https://docs.dgraph.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Dgraph_Box.svg" height="45" alt="Dgraph logo"  /></a>
   <a href="https://flatbuffers.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/FlatBuffers_Box.svg" height="45" alt="FlatBuffers logo"  /></a>
