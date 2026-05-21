@@ -53,7 +53,8 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Fortran_Box.svg" height="45" alt="Fortran logo"  /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/TypeScript_Box.svg" height="45" alt="TypeScript logo"  /></a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Svelte_Box.png" height="45" alt="Svelte logo"  /></a>
-  <a href="https://elm-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Elm_Box.svg" height="45" alt="Elm logo"  /></a>
+  <a href="https://elm-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Elm_Box.png" height="45" alt="Elm logo"  /></a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Sass_Box.png" height="45" alt="Sass logo"  /></a>
   <a href="https://vyperlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Vyper_Box.png" height="45" alt="Vyper logo" /></a>
   <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Solidity_Box.png" height="45" alt="Solidity logo" /></a>
   <a href="https://ocaml.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/OCaml_Box.svg" height="45" alt="OCaml logo" /></a>
@@ -67,7 +68,6 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://wails.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Wails_Box.svg" height="45" alt="Wails logo"  /></a>
   <a href="https://iced.rs/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Iced_Box.svg" height="45" alt="iced.rs logo"  /></a>
   <a href="https://learn.microsoft.com/en-us/windows/apps/winui/winui3/" target="_blank" rel="noreferrer"><img src="Icons/boxes/WinUI_Box.png" height="45" alt="WinUI logo"  /></a>
-  <!--WinUI Vector Image Masks Do Not Load on Most Browsers, Set as Fallback-->
   <a href="https://avaloniaui.net/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Avalonia_Box.svg" height="45" alt="Avalonia logo"  /></a>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Qt_Box.svg" height="45" alt="Qt logo"  /></a>
   <a href="https://www.jetbrains.com/compose-multiplatform/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Compose_Box.svg" height="45" alt="Compose Multiplatform logo"  /></a>
@@ -83,7 +83,6 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Redis_Box.svg" height="45" alt="redis logo"  /></a>
   <a href="https://docs.dgraph.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Dgraph_Box.svg" height="45" alt="Dgraph logo"  /></a>
   <a href="https://flatbuffers.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/FlatBuffers_Box.svg" height="45" alt="FlatBuffers logo"  /></a>
-  <a href="https://protobuf.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Protobuf_Box.svg" height="45" alt="Protobuf logo"  /></a>
   <!--a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Cassandra_Box.svg" height="45" alt="Cassandra logo"  /></a-->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/PostgreSQL_Box.svg" height="45" alt="PostgreSQL logo"  /></a>
   <a href="https://sqlite.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SQLite_Box.svg" height="45" alt="SQLite logo"  /></a>
@@ -94,7 +93,6 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   ### 🖥️ Software:
   
   <div>
-    <!-- <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Bun_Box.svg" height="45" alt="Bun logo"  /></a> -->
     <a href="https://mesonbuild.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Meson_Box.svg" height="45" alt="Meson logo" /></a>
     <a href="https://gradle.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Gradle_Box.svg" height="45" alt="Gradle logo"  /></a>
     <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Docker_Box.svg" height="45" alt="Docker logo"  /></a>
@@ -102,7 +100,6 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Linux_Box.svg" height="45" alt="Linux logo"  /></a>
     <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Arch_Box.svg" height="45" alt="Arch logo"  /></a>
     <a href="https://www.freebsd.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/FreeBSD_Box.png" height="45" alt="FreeBSD logo" /></a>
-    <!--FreeBSD Vector Image Does Not Load Properly on Most Browsers, Set as Fallback-->
     <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"><img src="Icons/boxes/Windows_Box.svg" height="45" alt="Windows logo"  /></a>
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Blender_Box.svg" height="45" alt="Blender logo"  /></a>
     <a href="https://www.adobe.com/products/substance3d.html" target="_blank" rel="noreferrer"><img src="Icons/boxes/Substance_Box.svg" height="45" alt="Substance 3D logo"  /></a>
