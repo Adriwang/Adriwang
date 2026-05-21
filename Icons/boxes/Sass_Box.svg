@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    xml:space="preserve"
-   sodipodi:docname="Rust_Box.svg"
+   sodipodi:docname="Sass_Box.svg"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    inkscape:export-filename="Sass_Box.png"
    inkscape:export-xdpi="260.09595"
@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="2.8284272"
-     inkscape:cx="-21.036426"
-     inkscape:cy="147.96209"
+     inkscape:zoom="4.0000001"
+     inkscape:cx="44.124999"
+     inkscape:cy="98.874997"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
@@ -46,10 +46,10 @@
      id="defs1"><linearGradient
        id="linearGradient1"
        inkscape:collect="always"><stop
-         style="stop-color:#d666a6;stop-opacity:1;"
+         style="stop-color:#dccde8;stop-opacity:1;"
          offset="0"
          id="stop1" /><stop
-         style="stop-color:#894166;stop-opacity:1;"
+         style="stop-color:#d99ac5;stop-opacity:1;"
          offset="1"
          id="stop2" /></linearGradient><filter
        style="color-interpolation-filters:sRGB"
