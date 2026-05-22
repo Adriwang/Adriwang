@@ -41,7 +41,6 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://dlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/D_Box.svg" height="45" alt="Dlang logo" /></a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/boxes/CSharp_Box.svg" height="45" alt="C Sharp logo"  /></a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Java_Box.svg" height="45" alt="Java logo" /></a>
-  <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Groovy_Box.svg" height="45" alt="Groovy logo"  /></a>
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Scala_Box.svg" height="45" alt="Scala logo"  /></a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Kotlin_Box.svg" height="45" alt="Kotlin logo"  /></a>
   <a href="https://haxe.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Haxe_Box.svg" height="45" alt="Haxe logo"  /></a>
@@ -52,6 +51,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://julialang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Julia_Box.svg" height="45" alt="Julia logo" /></a>
   <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Fortran_Box.svg" height="45" alt="Fortran logo"  /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/TypeScript_Box.svg" height="45" alt="TypeScript logo"  /></a>
+  <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Solid_Box.png" height="45" alt="Solid logo"  /></a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Svelte_Box.png" height="45" alt="Svelte logo"  /></a>
   <a href="https://elm-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Elm_Box.png" height="45" alt="Elm logo"  /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Sass_Box.png" height="45" alt="Sass logo"  /></a>
