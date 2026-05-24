@@ -107,6 +107,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
     <a href="https://krita.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Krita_Box.svg" height="45" alt="Krita logo"  /></a>
     <a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noreferrer"><img src="Icons/boxes/FL_Studio_Box.svg" height="45" alt="FL Studio logo"  /></a>
     <a href="https://www.steinberg.net/nuendo/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Nuendo_Box.svg" height="45" alt="Nuendo logo"  /></a>
+    <a href="https://www.bitwig.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Bitwig_Box.svg" height="45" alt="Bitwig logo"  /></a>
     <a href="https://www.audiokinetic.com/wwise/overview/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Wwise_Box.svg" height="45" alt="Wwise logo"  /></a>
     <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Visual_Studio_Box.svg" height="45" alt="Visual Studio logo"  /></a>
     <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"><img src="Icons/DaVinci_Resolve.png" height="45" alt="DaVinci Resolve logo"  /></a>
