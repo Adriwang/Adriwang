@@ -29,9 +29,9 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
 
 <hr>
 
-<div align="center">
+<div>
 
-  ### 🛠 Languages and Tools
+  ### 🛠 Languages and Tools :
 
   <div>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Rust_Box.png" height="45" alt="Rust Logo"  /></a>
@@ -90,7 +90,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
 
   <hr>
 
-  ### 🖥️ Software
+  ### 🖥️ Software :
   
   <div>
     <a href="https://mesonbuild.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Meson_Box.svg" height="45" alt="Meson logo" /></a>
