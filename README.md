@@ -50,7 +50,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Python_Box.svg" height="45" alt="Python logo"  /></a>
   <a href="https://julialang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Julia_Box.svg" height="45" alt="Julia logo" /></a>
   <!-- <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Fortran_Box.svg" height="45" alt="Fortran logo"  /></a> -->
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Lua_Box.svg" height="45" alt="Lua logo"  /></a>
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Lua_Box.png" height="45" alt="Lua logo"  /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/TypeScript_Box.svg" height="45" alt="TypeScript logo"  /></a>
   <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Solid_Box.png" height="45" alt="Solid logo"  /></a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Svelte_Box.png" height="45" alt="Svelte logo"  /></a>
