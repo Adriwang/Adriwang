@@ -4,7 +4,7 @@
 
 </div-->
 
-# 🌲 Adrian Chajter
+# 🌲 Adriwang
 
 **`Software Development (Software Engineering, Graphic Design, Audio Engineering)`**
 
