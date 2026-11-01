@@ -38,7 +38,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Go_Box.png" height="45" alt="Go logo"  /></a>
   <a href="https://www.c-language.org/about" target="_blank" rel="noreferrer"><img src="Icons/boxes/C_Box.svg" height="45" alt="C logo" /></a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/CPP_Box.svg" height="45" alt="C++ logo" /></a>
-  <a href="https://dlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/D_Box.svg" height="45" alt="Dlang logo" /></a>
+  <!-- a href="https://dlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/D_Box.svg" height="45" alt="Dlang logo" /></a-->
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="Icons/boxes/CSharp_Box.svg" height="45" alt="C Sharp logo"  /></a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Java_Box.svg" height="45" alt="Java logo" /></a>
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Scala_Box.svg" height="45" alt="Scala logo"  /></a>
@@ -49,7 +49,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://www.ruby-lang.org" target="_blank" rel="noreferrer"><img src="Icons/boxes/Ruby_Box.svg" height="45" alt="Ruby logo"  /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Python_Box.svg" height="45" alt="Python logo"  /></a>
   <a href="https://julialang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Julia_Box.svg" height="45" alt="Julia logo" /></a>
-  <!-- <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Fortran_Box.svg" height="45" alt="Fortran logo"  /></a> -->
+  <!-- a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Fortran_Box.svg" height="45" alt="Fortran logo"  /></a -->
   <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Lua_Box.png" height="45" alt="Lua logo"  /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/TypeScript_Box.svg" height="45" alt="TypeScript logo"  /></a>
   <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Solid_Box.png" height="45" alt="Solid logo"  /></a>
@@ -78,6 +78,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://learn.microsoft.com/windows/win32/directx" target="_blank" rel="noreferrer"><img src="Icons/boxes/DirectX_Box.svg" height="45" alt="DirectX logo"  /></a>
   <a href="https://www.vulkan.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Vulkan_Box.svg" height="45" alt="Vulkan logo"  /></a>
   <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/OpenGL_Box.svg" height="45" alt="OpenGL logo"  /></a>
+  <a href="https://www.khronos.org/sycl/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SYCL_Box.png" height="45" alt="OpenGL logo"  /></a>
   <a href="https://www.libsdl.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SDL_Box.png" height="45" alt="SDL logo"  /></a>
   <a href="https://shader-slang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Slang_Box.svg" height="45" alt="Slang logo"  /></a>
   <a href="https://surrealdb.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SurrealDB_Box.png" height="45" alt="SurrealDB logo"  /></a>
