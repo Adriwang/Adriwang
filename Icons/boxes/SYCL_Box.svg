@@ -23,9 +23,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="-8"
      inkscape:window-x="-8"
-     inkscape:cy="322.84054"
-     inkscape:cx="-376.44426"
-     inkscape:zoom="0.41041933"
+     inkscape:cy="239.91224"
+     inkscape:cx="-18.521052"
+     inkscape:zoom="1.1608412"
      showgrid="false"
      id="namedview12"
      inkscape:window-height="1369"
@@ -54,7 +54,7 @@
      id="defs14"><linearGradient
        id="linearGradient7"
        inkscape:collect="always"><stop
-         style="stop-color:#ffffff;stop-opacity:0.75;"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
          id="stop7" /><stop
          style="stop-color:#ffffff;stop-opacity:0;"
@@ -95,7 +95,7 @@
        ry="21.520769"
        inkscape:label="Background"
        transform="matrix(4.9007712,0,0,4.9007712,4.6081476,4.4014407)" /><rect
-       style="clip-rule:evenodd;display:inline;opacity:1;fill:#000000;fill-opacity:0.30125;fill-rule:evenodd;stroke:none;stroke-width:2.12674;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+       style="clip-rule:evenodd;display:inline;opacity:1;fill:#000000;fill-opacity:0.2;fill-rule:evenodd;stroke:none;stroke-width:2.12674;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
        id="rect6"
        width="100"
        height="100"
@@ -113,7 +113,7 @@
        ry="21.520769"
        transform="matrix(4.9007712,0,0,4.9007712,4.6081476,4.4014407)"
        inkscape:label="Light" /><rect
-       style="clip-rule:evenodd;opacity:1;fill:none;fill-rule:evenodd;stroke:#c94512;stroke-width:2.12674;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+       style="clip-rule:evenodd;opacity:1;fill:none;fill-rule:evenodd;stroke:#f35a1c;stroke-width:2.12674;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
        id="rect17"
        width="100"
        height="100"
