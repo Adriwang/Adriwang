@@ -80,7 +80,7 @@ I split my time between **Software Engineering**, **Graphic Design**, and **Audi
   <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/OpenGL_Box.svg" height="45" alt="OpenGL logo"  /></a>
   <a href="https://www.khronos.org/opencl/" target="_blank" rel="noreferrer"><img src="Icons/boxes/OpenCL_Box.svg" height="45" alt="OpenCL logo"  /></a>
   <a href="https://www.khronos.org/sycl/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SYCL_Box.svg" height="45" alt="SYCL logo"  /></a>
-  <a href="https://www.libsdl.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SDL_Box.png" height="45" alt="SDL logo"  /></a>
+  <a href="https://www.libsdl.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SDL_Box.svg" height="45" alt="SDL logo"  /></a>
   <a href="https://shader-slang.org/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Slang_Box.svg" height="45" alt="Slang logo"  /></a>
   <a href="https://surrealdb.com/" target="_blank" rel="noreferrer"><img src="Icons/boxes/SurrealDB_Box.png" height="45" alt="SurrealDB logo"  /></a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="Icons/boxes/Redis_Box.svg" height="45" alt="redis logo"  /></a>
