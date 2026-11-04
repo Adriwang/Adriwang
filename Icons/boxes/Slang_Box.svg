@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
-   sodipodi:docname="SYCL_Box.svg"
+   sodipodi:docname="Slang_Box.svg"
    viewBox="0 0 500.49978 500.49979"
    height="500.49979"
    width="500.49979"
@@ -23,9 +23,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="-8"
      inkscape:window-x="-8"
-     inkscape:cy="303.95741"
-     inkscape:cx="-17.664859"
-     inkscape:zoom="0.82083868"
+     inkscape:cy="899.08044"
+     inkscape:cx="-406.9009"
+     inkscape:zoom="0.20520967"
      showgrid="false"
      id="namedview12"
      inkscape:window-height="1369"
@@ -67,10 +67,10 @@
          offset="0"
          id="stop2-9" /><stop
          style="stop-color:#ff6633;stop-opacity:0;"
-         offset="0.30000001"
+         offset="0.32519421"
          id="stop4" /><stop
          style="stop-color:#1cadb8;stop-opacity:0;"
-         offset="0.69999999"
+         offset="0.55739087"
          id="stop17" /><stop
          style="stop-color:#1cadb8;stop-opacity:1;"
          offset="0.99843073"
@@ -81,16 +81,16 @@
        x1="0.1211208"
        y1="4.2304397e-05"
        x2="100.12106"
-       y2="99.999985"
+       y2="100.00001"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(5.0049978,0,0,5.0049978,-0.61580112,-0.8098902)" /><linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2-0"
        id="linearGradient20"
-       x1="-0.009905085"
-       y1="-0.80986238"
-       x2="500.48987"
-       y2="499.68991"
+       x1="-34.012775"
+       y1="2.1256187"
+       x2="442.75873"
+       y2="658.20587"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.88037801,0,0,0.88037801,29.934212,29.838508)" /></defs><g
      id="g18"
