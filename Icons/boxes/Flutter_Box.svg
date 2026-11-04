@@ -9,7 +9,7 @@
    id="svg1"
    xml:space="preserve"
    sodipodi:docname="Flutter_Box.svg"
-   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="3.9513127"
-     inkscape:cx="67.06632"
-     inkscape:cy="71.495227"
+     inkscape:zoom="2.794"
+     inkscape:cx="-30.243379"
+     inkscape:cy="88.224767"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
@@ -210,7 +210,7 @@
        fy="0.029947981"
        r="25"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.0027952,0,0,2.0027952,-0.03003412,-0.03003167)" /><style
+       gradientTransform="matrix(2.0453706,0,0,2.0453706,-0.56211651,-0.562114)" /><style
        id="style1-5">.cls-1{fill:#01579b;}.cls-2{fill:#40c4ff;}.cls-3{fill:#29b6f6;}.cls-4{fill:#fff;}.cls-4,.cls-5,.cls-6{opacity:0.2;isolation:isolate;}.cls-5{fill:#263238;}.cls-6{fill:url(#radial-gradient);}</style><radialGradient
        id="radial-gradient-5"
        cx="251.42"
@@ -273,17 +273,20 @@
          offset="1"
          stop-color="#fff"
          stop-opacity="0"
-         id="stop2-6-3-6" /></radialGradient></defs><g
+         id="stop2-6-3-6" /></radialGradient><style
+       id="style2">.a{opacity:0.28;}.b{fill:#fff;stroke:#707070;opacity:0;}.c,.d,.e{fill:#1f2044;}.d{opacity:0.79;}.e{opacity:0.54;}.f{stroke:none;}.g{fill:none;}</style><linearGradient
+       id="linearGradient5"><stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0.00462963"
+         id="stop1" /><stop
+         style="stop-color:#3d72c3;stop-opacity:1;"
+         offset="0.99834436"
+         id="stop5" /></linearGradient></defs><g
      id="layer1"
-     inkscape:label="Flutter"><rect
-       style="font-variation-settings:normal;vector-effect:none;fill:url(#radialGradient16-4);stroke:none;stroke-width:0.260698;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+     inkscape:label="Flutter"><path
        id="rect1-18"
-       width="50"
-       height="50"
-       x="0"
-       y="0"
-       rx="7.1983109"
-       ry="7.1983109" /><g
+       style="font-variation-settings:normal;vector-effect:none;fill:url(#radialGradient16-4);stroke:none;stroke-width:0.26624;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="M 10.760288,0 C 4.7990904,0 0,4.7990904 0,10.760288 v 28.478956 c 0,5.961197 4.7990904,10.760288 10.760288,10.760288 h 28.478956 c 5.961197,0 10.760288,-4.799091 10.760288,-10.760288 V 10.760288 C 49.999532,4.7990904 45.200441,0 39.239244,0 Z" /><g
        id="g6"
        transform="matrix(0.12249313,0,0,0.12249313,9.3656892,5.6085279)"><polygon
          fill="#47c5fb"
@@ -302,4 +305,34 @@
          fill="url(#linearGradient-1)"
          points="165.72188,234.94131 121.13283,279.53145 161.6929,266.07223 "
          id="polygon6"
-         style="fill:url(#linearGradient-1)" /></g></g></svg>
+         style="fill:url(#linearGradient-1)" /></g></g><style
+     type="text/css"
+     id="style1-0">
+	.st0{fill:url(#ICON_00000088831890668800157600000002638584723837204667_);}
+</style><style
+     id="style1-7">.st10{fill:#333}</style><style
+     type="text/css"
+     id="style1-1">
+	.st0{fill:url(#ICON_00000088831890668800157600000002638584723837204667_);}
+</style><style
+     id="style1-7-2">.st10{fill:#333}</style><style
+     type="text/css"
+     id="style1-8">
+	.st0{fill:url(#ICON_00000088831890668800157600000002638584723837204667_);}
+</style><style
+     id="style1-7-8">.st10{fill:#333}</style><style
+     type="text/css"
+     id="style1-1-2">
+	.st0{fill:url(#ICON_00000088831890668800157600000002638584723837204667_);}
+</style><style
+     id="style1-7-2-4">.st10{fill:#333}</style><style
+     type="text/css"
+     id="style1-4">
+	.st0{fill:url(#ICON_00000088831890668800157600000002638584723837204667_);}
+</style><style
+     id="style1-7-88">.st10{fill:#333}</style><style
+     type="text/css"
+     id="style1-1-24">
+	.st0{fill:url(#ICON_00000088831890668800157600000002638584723837204667_);}
+</style><style
+     id="style1-7-2-5">.st10{fill:#333}</style></svg>
